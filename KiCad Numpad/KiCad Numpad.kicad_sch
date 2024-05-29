@@ -1788,7 +1788,7 @@
 			(uuid "1a464ced-4f35-458f-9cb7-8e708fe6df34")
 		)
 		(instances
-			(project "New Project"
+			(project "KiCad Numpad"
 				(path "/399776d7-afe2-437e-8a47-9123c5af5dd7"
 					(reference "D13")
 					(unit 1)
@@ -1876,7 +1876,7 @@
 			(uuid "29df554d-a053-457b-b4dd-fc5ba90df5cd")
 		)
 		(instances
-			(project "New Project"
+			(project "KiCad Numpad"
 				(path "/399776d7-afe2-437e-8a47-9123c5af5dd7"
 					(reference "D3")
 					(unit 1)
@@ -1944,7 +1944,7 @@
 			(uuid "1a19e6f6-b9f0-4fa5-9e9e-e7f40b25b5ea")
 		)
 		(instances
-			(project "New Project"
+			(project "KiCad Numpad"
 				(path "/399776d7-afe2-437e-8a47-9123c5af5dd7"
 					(reference "MX1")
 					(unit 1)
@@ -2012,7 +2012,7 @@
 			(uuid "de4ce4de-b086-48d6-aae7-694448b7aca3")
 		)
 		(instances
-			(project "New Project"
+			(project "KiCad Numpad"
 				(path "/399776d7-afe2-437e-8a47-9123c5af5dd7"
 					(reference "MX15")
 					(unit 1)
@@ -2100,7 +2100,7 @@
 			(uuid "c4d5eb5d-b58e-4d30-afa1-d0093374d7f6")
 		)
 		(instances
-			(project "New Project"
+			(project "KiCad Numpad"
 				(path "/399776d7-afe2-437e-8a47-9123c5af5dd7"
 					(reference "D5")
 					(unit 1)
@@ -2168,7 +2168,7 @@
 			(uuid "e6a6a6c6-fbe3-4571-a5be-bec57b23f9ca")
 		)
 		(instances
-			(project "New Project"
+			(project "KiCad Numpad"
 				(path "/399776d7-afe2-437e-8a47-9123c5af5dd7"
 					(reference "MX17")
 					(unit 1)
@@ -2232,7 +2232,7 @@
 			)
 		)
 		(instances
-			(project "New Project"
+			(project "KiCad Numpad"
 				(path "/399776d7-afe2-437e-8a47-9123c5af5dd7"
 					(reference "S3")
 					(unit 1)
@@ -2300,7 +2300,7 @@
 			(uuid "1deefd77-4a83-4ce7-8f88-d6ec4a4c109f")
 		)
 		(instances
-			(project "New Project"
+			(project "KiCad Numpad"
 				(path "/399776d7-afe2-437e-8a47-9123c5af5dd7"
 					(reference "MX14")
 					(unit 1)
@@ -2388,7 +2388,7 @@
 			(uuid "5f6a2b52-cfa2-4ace-9bb9-228c1dafc3cb")
 		)
 		(instances
-			(project "New Project"
+			(project "KiCad Numpad"
 				(path "/399776d7-afe2-437e-8a47-9123c5af5dd7"
 					(reference "D10")
 					(unit 1)
@@ -2477,7 +2477,7 @@
 			(uuid "fe53d4d9-9856-4c66-b0ec-828a051cf398")
 		)
 		(instances
-			(project "New Project"
+			(project "KiCad Numpad"
 				(path "/399776d7-afe2-437e-8a47-9123c5af5dd7"
 					(reference "D2")
 					(unit 1)
@@ -2545,7 +2545,7 @@
 			(uuid "ac3e2ae1-0d32-4971-87bb-ef85444da9f1")
 		)
 		(instances
-			(project "New Project"
+			(project "KiCad Numpad"
 				(path "/399776d7-afe2-437e-8a47-9123c5af5dd7"
 					(reference "MX12")
 					(unit 1)
@@ -2634,7 +2634,7 @@
 			(uuid "934c9081-8005-4b03-b4d7-288fbe077e37")
 		)
 		(instances
-			(project "New Project"
+			(project "KiCad Numpad"
 				(path "/399776d7-afe2-437e-8a47-9123c5af5dd7"
 					(reference "D16")
 					(unit 1)
@@ -2702,7 +2702,7 @@
 			(uuid "5e5cfde5-2127-41c8-8d13-516706fdeb4a")
 		)
 		(instances
-			(project "New Project"
+			(project "KiCad Numpad"
 				(path "/399776d7-afe2-437e-8a47-9123c5af5dd7"
 					(reference "MX13")
 					(unit 1)
@@ -2790,7 +2790,7 @@
 			(uuid "ff7cd60e-e68c-4c33-ab66-e9aba769c215")
 		)
 		(instances
-			(project "New Project"
+			(project "KiCad Numpad"
 				(path "/399776d7-afe2-437e-8a47-9123c5af5dd7"
 					(reference "D17")
 					(unit 1)
@@ -2859,7 +2859,7 @@
 			(uuid "a1ab565a-d966-4efb-9352-5c19f5d3fdce")
 		)
 		(instances
-			(project "New Project"
+			(project "KiCad Numpad"
 				(path "/399776d7-afe2-437e-8a47-9123c5af5dd7"
 					(reference "MX7")
 					(unit 1)
@@ -2947,7 +2947,7 @@
 			(uuid "2f61ea14-197b-4e51-bf9b-8a1221d897e0")
 		)
 		(instances
-			(project "New Project"
+			(project "KiCad Numpad"
 				(path "/399776d7-afe2-437e-8a47-9123c5af5dd7"
 					(reference "D1")
 					(unit 1)
@@ -3015,7 +3015,7 @@
 			(uuid "dded33d7-b310-4a10-ae54-eb12ce5b189e")
 		)
 		(instances
-			(project "New Project"
+			(project "KiCad Numpad"
 				(path "/399776d7-afe2-437e-8a47-9123c5af5dd7"
 					(reference "MX10")
 					(unit 1)
@@ -3102,7 +3102,7 @@
 			(uuid "39145d26-c066-4a0a-bdbf-3a6f4b232835")
 		)
 		(instances
-			(project "New Project"
+			(project "KiCad Numpad"
 				(path "/399776d7-afe2-437e-8a47-9123c5af5dd7"
 					(reference "D11")
 					(unit 1)
@@ -3170,7 +3170,7 @@
 			(uuid "3d27e738-2941-4f95-ba40-109fab2c44d8")
 		)
 		(instances
-			(project "New Project"
+			(project "KiCad Numpad"
 				(path "/399776d7-afe2-437e-8a47-9123c5af5dd7"
 					(reference "MX2")
 					(unit 1)
@@ -3258,7 +3258,7 @@
 			(uuid "69d23150-09ad-4e93-8cc3-0ec015172470")
 		)
 		(instances
-			(project "New Project"
+			(project "KiCad Numpad"
 				(path "/399776d7-afe2-437e-8a47-9123c5af5dd7"
 					(reference "D4")
 					(unit 1)
@@ -3322,7 +3322,7 @@
 			)
 		)
 		(instances
-			(project "New Project"
+			(project "KiCad Numpad"
 				(path "/399776d7-afe2-437e-8a47-9123c5af5dd7"
 					(reference "S2")
 					(unit 1)
@@ -3410,7 +3410,7 @@
 			(uuid "ee6f58fa-db4a-49a9-b069-91f7f1ad891d")
 		)
 		(instances
-			(project "New Project"
+			(project "KiCad Numpad"
 				(path "/399776d7-afe2-437e-8a47-9123c5af5dd7"
 					(reference "D6")
 					(unit 1)
@@ -3497,7 +3497,7 @@
 			(uuid "acdd9b4c-7b14-4963-8809-443a2f987e5d")
 		)
 		(instances
-			(project "New Project"
+			(project "KiCad Numpad"
 				(path "/399776d7-afe2-437e-8a47-9123c5af5dd7"
 					(reference "D15")
 					(unit 1)
@@ -3561,7 +3561,7 @@
 			)
 		)
 		(instances
-			(project "New Project"
+			(project "KiCad Numpad"
 				(path "/399776d7-afe2-437e-8a47-9123c5af5dd7"
 					(reference "S1")
 					(unit 1)
@@ -3649,7 +3649,7 @@
 			(uuid "288fa7f9-3046-4db4-b6c9-d62e3633bd26")
 		)
 		(instances
-			(project "New Project"
+			(project "KiCad Numpad"
 				(path "/399776d7-afe2-437e-8a47-9123c5af5dd7"
 					(reference "D14")
 					(unit 1)
@@ -3717,7 +3717,7 @@
 			(uuid "a726fa7e-d3e2-4bfa-947f-a9bff4c0c7a0")
 		)
 		(instances
-			(project "New Project"
+			(project "KiCad Numpad"
 				(path "/399776d7-afe2-437e-8a47-9123c5af5dd7"
 					(reference "MX16")
 					(unit 1)
@@ -3785,7 +3785,7 @@
 			(uuid "a044bc73-c52f-4ac5-951b-2206d18d72b7")
 		)
 		(instances
-			(project "New Project"
+			(project "KiCad Numpad"
 				(path "/399776d7-afe2-437e-8a47-9123c5af5dd7"
 					(reference "MX5")
 					(unit 1)
@@ -3853,7 +3853,7 @@
 			(uuid "3407348a-b5f8-4000-bff4-4afc7944a6cb")
 		)
 		(instances
-			(project "New Project"
+			(project "KiCad Numpad"
 				(path "/399776d7-afe2-437e-8a47-9123c5af5dd7"
 					(reference "MX3")
 					(unit 1)
@@ -3940,7 +3940,7 @@
 			(uuid "4f21dcad-3685-478c-87c5-490314a90884")
 		)
 		(instances
-			(project "New Project"
+			(project "KiCad Numpad"
 				(path "/399776d7-afe2-437e-8a47-9123c5af5dd7"
 					(reference "D7")
 					(unit 1)
@@ -4008,7 +4008,7 @@
 			(uuid "c9e3c4fa-f701-48dc-bac8-a789e9d75255")
 		)
 		(instances
-			(project "New Project"
+			(project "KiCad Numpad"
 				(path "/399776d7-afe2-437e-8a47-9123c5af5dd7"
 					(reference "MX4")
 					(unit 1)
@@ -4076,7 +4076,7 @@
 			(uuid "78b42c9a-fb5f-4357-a32e-63d4b132fbeb")
 		)
 		(instances
-			(project "New Project"
+			(project "KiCad Numpad"
 				(path "/399776d7-afe2-437e-8a47-9123c5af5dd7"
 					(reference "MX11")
 					(unit 1)
@@ -4164,7 +4164,7 @@
 			(uuid "da5752e2-03be-47df-8e15-0295e5a0c8eb")
 		)
 		(instances
-			(project "New Project"
+			(project "KiCad Numpad"
 				(path "/399776d7-afe2-437e-8a47-9123c5af5dd7"
 					(reference "D12")
 					(unit 1)
@@ -4232,7 +4232,7 @@
 			(uuid "45d799c0-65ed-4f4e-9bde-c4d0de8dc92a")
 		)
 		(instances
-			(project "New Project"
+			(project "KiCad Numpad"
 				(path "/399776d7-afe2-437e-8a47-9123c5af5dd7"
 					(reference "MX9")
 					(unit 1)
@@ -4320,7 +4320,7 @@
 			(uuid "1bc2f8b4-3e25-4769-97a8-ee131eb6cb82")
 		)
 		(instances
-			(project "New Project"
+			(project "KiCad Numpad"
 				(path "/399776d7-afe2-437e-8a47-9123c5af5dd7"
 					(reference "D9")
 					(unit 1)
@@ -4387,7 +4387,7 @@
 			(uuid "dc40ef03-ccb1-4d8c-aee9-05cb77ef4272")
 		)
 		(instances
-			(project "New Project"
+			(project "KiCad Numpad"
 				(path "/399776d7-afe2-437e-8a47-9123c5af5dd7"
 					(reference "MX6")
 					(unit 1)
@@ -4397,7 +4397,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-promicroish:Arduino_ProMicro")
-		(at 77.47 102.87 0)
+		(at 77.47 93.98 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -4406,7 +4406,7 @@
 		(fields_autoplaced yes)
 		(uuid "f6c9bbf8-e7ef-45ab-91d1-f06c6cafaacb")
 		(property "Reference" "U1"
-			(at 77.47 81.28 0)
+			(at 77.47 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4414,7 +4414,7 @@
 			)
 		)
 		(property "Value" "ProMicro"
-			(at 77.47 83.82 0)
+			(at 77.47 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4422,7 +4422,7 @@
 			)
 		)
 		(property "Footprint" "PCM_marbastlib-xp-promicroish:ProMicro_USBup"
-			(at 77.47 133.35 0)
+			(at 77.47 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4431,7 +4431,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 64.77 88.9 0)
+			(at 64.77 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4440,7 +4440,7 @@
 			)
 		)
 		(property "Description" "Symbol for an Arduino Pro Micro"
-			(at 77.47 102.87 0)
+			(at 77.47 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4521,7 +4521,7 @@
 			(uuid "9fa55334-3baf-4a97-b738-dc1a095bf755")
 		)
 		(instances
-			(project "New Project"
+			(project "KiCad Numpad"
 				(path "/399776d7-afe2-437e-8a47-9123c5af5dd7"
 					(reference "U1")
 					(unit 1)
