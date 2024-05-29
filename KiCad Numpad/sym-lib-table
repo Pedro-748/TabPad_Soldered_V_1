@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MX-Alps_Switch_Cutouts")(type "EasyEDA (JLCEDA) Pro")(uri "D:/PCB Design/KiCad/Extra Downloaded Part files/Keebio-Parts.pretty-master/Keebio-Parts.pretty-master/MX-Alps_Switch_Cutouts.zip")(options "")(descr ""))
+  (lib (name "Keebio-Parts.pretty-master")(type "EasyEDA (JLCEDA) Pro")(uri "D:/PCB Design/KiCad/Extra Downloaded Part files/Keebio-Parts.pretty-master.zip")(options "")(descr ""))
+)
