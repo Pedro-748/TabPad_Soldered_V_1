@@ -1,4 +1,4 @@
-24737243590289075
+26122875143870020
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -67444,6 +67444,1119 @@ DIL DIP PDIP 2.54mm 7.62mm 300mil
 0
 4
 4
+PCM_Keebio
+3_Pin_Jumper
+
+
+0
+9
+3
+PCM_Keebio
+4pin35mmAudio
+
+
+0
+6
+6
+PCM_Keebio
+AST1109MLTRQ
+Murata Buzzer http://www.murata.com/en-us/api/pdfdownloadapi?cate=&partno=PKMCS0909E4000-R1
+Murata Buzzer Beeper
+0
+2
+2
+PCM_Keebio
+AT90USB1286_TQFP_14mm
+64-Lead Plastic Thin Quad Flatpack (PF) - 14x14x1 mm Body, 2.00 mm [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
+QFP 0.8
+0
+64
+64
+PCM_Keebio
+ATMEGA32U4-AU
+
+
+0
+44
+44
+PCM_Keebio
+ArduinoProMicro
+
+
+0
+24
+24
+PCM_Keebio
+ArduinoProMicro-BackSide
+
+
+0
+24
+24
+PCM_Keebio
+ArduinoProMicro-Mini-USB
+
+
+0
+24
+24
+PCM_Keebio
+ArduinoProMicro-Mini-USB-No-Text
+
+
+0
+24
+24
+PCM_Keebio
+ArduinoProMicro-Mini-USB-ZigZag
+
+
+0
+24
+24
+PCM_Keebio
+ArduinoProMicro-TopSide
+
+
+0
+24
+24
+PCM_Keebio
+ArduinoProMicro-ZigZag
+
+
+0
+24
+24
+PCM_Keebio
+CUI_SJ-43614-SMT
+
+
+0
+4
+4
+PCM_Keebio
+C_0402
+Capacitor SMD 0402, reflow soldering, AVX (see smccp.pdf)
+capacitor 0402
+0
+2
+2
+PCM_Keebio
+C_0603
+SMT, 1608, 0603
+SMT, 1608, 0603
+0
+2
+2
+PCM_Keebio
+Cherry-MX-Low-Profile
+
+
+0
+2
+2
+PCM_Keebio
+Crystal_SMD_2520-4pin_2.5x2.0mm
+SMD Crystal SERIES SMD2520/4 http://www.newxtal.com/UploadFiles/Images/2012-11-12-09-29-09-776.pdf, 2.5x2.0mm^2 package
+SMD SMT crystal
+0
+4
+4
+PCM_Keebio
+Crystal_SMD_3225-4pin_3.2x2.5mm
+SMD Crystal SERIES SMD3225/4 http://www.txccrystal.com/images/pdf/7m-accuracy.pdf, 3.2x2.5mm^2 package
+SMD SMT crystal
+0
+4
+4
+PCM_Keebio
+D_0805
+
+
+0
+2
+2
+PCM_Keebio
+D_SOD-323
+SOD-323
+SOD-323
+0
+2
+2
+PCM_Keebio
+D_SOD123
+
+
+0
+2
+2
+PCM_Keebio
+D_SOD123F
+
+
+0
+2
+2
+PCM_Keebio
+Diode
+
+
+0
+2
+2
+PCM_Keebio
+Diode-Hybrid-Back
+
+
+0
+6
+2
+PCM_Keebio
+Diode-dual
+
+
+0
+10
+2
+PCM_Keebio
+Diode-hybrid-3pad
+
+
+0
+6
+2
+PCM_Keebio
+Diode_Long
+
+
+0
+2
+2
+PCM_Keebio
+Elite-C
+
+
+0
+29
+29
+PCM_Keebio
+Elite-C-ZigZag
+
+
+0
+29
+29
+PCM_Keebio
+Elite-C-castellated-24pin
+
+
+0
+24
+24
+PCM_Keebio
+Elite-C-castellated-24pin-holes
+
+
+0
+48
+24
+PCM_Keebio
+Elite-C-castellated-29pin
+
+
+0
+29
+29
+PCM_Keebio
+Elite-C-castellated-29pin-holes
+
+
+0
+58
+29
+PCM_Keebio
+Epson_TSX-3225
+
+
+0
+4
+4
+PCM_Keebio
+Fuse_0805
+SMT, 2012, 0805
+SMT, 2012, 0805
+0
+2
+2
+PCM_Keebio
+HRO-TYPE-C-31-M-12-Assembly
+
+
+0
+16
+13
+PCM_Keebio
+Header-6-Pin-ZigZag
+Through hole straight socket strip, 1x06, 2.54mm pitch, single row
+Through hole socket strip THT 1x06 2.54mm single row
+0
+6
+6
+PCM_Keebio
+Header-12-Pin-ZigZag
+Through hole straight socket strip, 1x06, 2.54mm pitch, single row
+Through hole socket strip THT 1x06 2.54mm single row
+0
+12
+12
+PCM_Keebio
+Header-12-Pin-ZigZag-Square
+Through hole straight socket strip, 1x06, 2.54mm pitch, single row
+Through hole socket strip THT 1x06 2.54mm single row
+0
+12
+12
+PCM_Keebio
+I2C_Breakout
+Through hole straight pin header, 1x04, 2.54mm pitch, single row
+Through hole pin header THT 1x04 2.54mm single row
+0
+4
+4
+PCM_Keebio
+ICSP-Header
+Through hole straight socket strip, 1x06, 2.54mm pitch, single row
+Through hole socket strip THT 1x06 2.54mm single row
+0
+6
+6
+PCM_Keebio
+ICSP-Header-ZigZag
+Through hole straight socket strip, 1x06, 2.54mm pitch, single row
+Through hole socket strip THT 1x06 2.54mm single row
+0
+6
+6
+PCM_Keebio
+ICSP_1.27mm
+Through hole straight pin header, 2x03, 1.27mm pitch, double rows
+Through hole pin header THT 2x03 1.27mm double row
+0
+6
+6
+PCM_Keebio
+JUMPER_SMD_2DUB
+
+
+0
+12
+2
+PCM_Keebio
+KLJ-1102
+
+
+0
+2
+2
+PCM_Keebio
+Kailh-PG1350-1.5u
+
+
+0
+4
+4
+PCM_Keebio
+Kailh-PG1350-1.25u
+
+
+0
+4
+4
+PCM_Keebio
+Kailh-PG1350-1.25u-LED-flip
+
+
+0
+4
+4
+PCM_Keebio
+Kailh-PG1350-1u
+
+
+0
+4
+4
+PCM_Keebio
+Kailh-PG1350-1u-No-Clickhole
+
+
+0
+4
+4
+PCM_Keebio
+Kailh-PG1350-1u-NoLED
+
+
+0
+2
+2
+PCM_Keebio
+Kailh-PG1350-1u-reversible
+
+
+0
+5
+4
+PCM_Keebio
+Kailh-PG1350-1u-reversible-No-Clickhole
+
+
+0
+5
+4
+PCM_Keebio
+Kailh-PG1350-1u-reversible-flip
+
+
+0
+5
+4
+PCM_Keebio
+Kailh-PG1350-2.5u
+
+
+0
+4
+4
+PCM_Keebio
+Kailh-PG1350-2u
+
+
+0
+4
+4
+PCM_Keebio
+Kailh-PG1350-2u-NoLED
+
+
+0
+2
+2
+PCM_Keebio
+Kailh-PG1350-2u-Vert-NoLED
+
+
+0
+2
+2
+PCM_Keebio
+LED_3mm
+
+
+0
+2
+2
+PCM_Keebio
+LQFP-48_7x7mm_Pitch0.5mm
+48 LEAD LQFP 7x7mm (see MICREL LQFP7x7-48LD-PL-1.pdf)
+QFP 0.5
+0
+48
+48
+PCM_Keebio
+Low-Profile-Choc-MX
+
+
+0
+5
+4
+PCM_Keebio
+MD_Diode
+
+
+0
+2
+2
+PCM_Keebio
+MX-Alps-Choc-1U
+
+
+0
+8
+4
+PCM_Keebio
+MX-Alps-Choc-1U-No-Clickhole
+
+
+0
+8
+4
+PCM_Keebio
+MX-Alps-Choc-1U-NoLED
+
+
+0
+6
+2
+PCM_Keebio
+MX-Alps-Choc-1U-NoLED-Alt
+
+
+0
+6
+2
+PCM_Keebio
+MX-Alps-Choc-2U
+
+
+0
+8
+4
+PCM_Keebio
+MX-Alps-Choc-2U-StabFlip
+
+
+0
+8
+4
+PCM_Keebio
+MX-Alps_DMask
+
+
+0
+2
+1
+PCM_Keebio
+MX-Alps_FMask
+
+
+0
+2
+1
+PCM_Keebio
+MX-Alps_FMask-2u
+
+
+0
+2
+1
+PCM_Keebio
+MX-Alps_Switch_Cutout
+
+
+0
+2
+1
+PCM_Keebio
+MX-Alps_Switch_Cutout-1u_1.25u
+
+
+0
+0
+0
+PCM_Keebio
+MX-Alps_Switch_Cutout-1u_1.25u-3u-wide
+
+
+0
+0
+0
+PCM_Keebio
+MX-Alps_Switch_Cutout-1u_2u
+
+
+0
+2
+1
+PCM_Keebio
+MX-Alps_Switch_Cutout-3u-wide
+
+
+0
+0
+0
+PCM_Keebio
+MX-Quad
+MX/Alps footprint
+
+0
+8
+2
+PCM_Keebio
+MX_FMask
+
+
+0
+2
+1
+PCM_Keebio
+MX_FMask-2u
+
+
+0
+3
+1
+PCM_Keebio
+MX_FMask-2u-with-cutout
+
+
+0
+2
+1
+PCM_Keebio
+MX_FMask-with-cutout
+
+
+0
+2
+1
+PCM_Keebio
+MX_LED
+
+
+0
+2
+2
+PCM_Keebio
+MX_Stabilizer_Cutout
+
+
+0
+0
+0
+PCM_Keebio
+MX_Stabilizer_Cutout-2u
+
+
+0
+0
+0
+PCM_Keebio
+MX_Switch_Cutout
+
+
+0
+0
+0
+PCM_Keebio
+MX_Switch_Mod_Cutout
+
+
+0
+0
+0
+PCM_Keebio
+Mini-USB
+
+
+0
+7
+6
+PCM_Keebio
+MountingHole
+
+
+0
+1
+0
+PCM_Keebio
+NovelKeys_Kailh_Big_Series_Switch
+
+
+0
+2
+2
+PCM_Keebio
+Pin_Header_Straight_2x03_Pitch1.00mm
+Through hole straight pin header, 2x03, 1.00mm pitch, double rows
+Through hole pin header THT 2x03 1.00mm double row
+0
+6
+6
+PCM_Keebio
+QFN-44-1EP_7x7mm_Pitch0.5mm
+UK Package; 44-Lead Plastic QFN (7mm x 7mm); (see Linear Technology QFN_44_05-08-1763.pdf)
+QFN 0.5
+0
+60
+45
+PCM_Keebio
+RGB-6028
+
+
+0
+4
+4
+PCM_Keebio
+RGB_3528_Blue_Notch
+RGB LED 3.2x2.7mm http://www.avagotech.com/docs/AV02-0610EN
+LED 3227
+0
+4
+4
+PCM_Keebio
+RGB_3528_Blue_Notch-MX
+RGB LED 3.2x2.7mm http://www.avagotech.com/docs/AV02-0610EN
+LED 3227
+0
+4
+4
+PCM_Keebio
+RGB_3528_Blue_Notch-MX-Flip
+RGB LED 3.2x2.7mm http://www.avagotech.com/docs/AV02-0610EN
+LED 3227
+0
+4
+4
+PCM_Keebio
+RP2040-QFN-56
+QFN, 56 Pin (http://www.cypress.com/file/416486/download#page=40), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+70
+57
+PCM_Keebio
+R_0402
+Resistor SMD 0402, reflow soldering, Vishay (see dcrcw.pdf)
+resistor 0402
+0
+2
+2
+PCM_Keebio
+R_0603
+SMT, 1608, 0603
+SMT, 1608, 0603
+0
+2
+2
+PCM_Keebio
+R_0805
+SMT, 2012, 0805
+SMT, 2012, 0805
+0
+2
+2
+PCM_Keebio
+Resistor
+
+
+0
+2
+2
+PCM_Keebio
+Resistor-Compact
+
+
+0
+2
+2
+PCM_Keebio
+Resistor-Compact-1-side
+
+
+0
+2
+2
+PCM_Keebio
+Resistor-Hybrid
+
+
+0
+10
+2
+PCM_Keebio
+Resistor-Hybrid-Back
+
+
+0
+6
+2
+PCM_Keebio
+RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+7
+6
+PCM_Keebio
+RotaryEncoder_EC11
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+5
+5
+PCM_Keebio
+RotaryEncoder_EC11-no-legs
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+5
+5
+PCM_Keebio
+RotaryEncoder_EC11B-Horizontal-Dual
+
+
+0
+7
+5
+PCM_Keebio
+RotaryEncoder_EC11_Nonplated
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+5
+5
+PCM_Keebio
+SK6812-MINI-E
+
+
+0
+4
+4
+PCM_Keebio
+SM0805D
+
+
+0
+2
+2
+PCM_Keebio
+SOIC-8_3.9x4.9mm_Pitch1.27mm
+8-Lead Plastic Small Outline (SN) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
+SOIC 1.27
+0
+8
+8
+PCM_Keebio
+SOIC-8_5.23x5.23mm_P1.27mm
+SOIC, 8 Pin (http://www.winbond.com/resource-files/w25q32jv%20revg%2003272018%20plus.pdf#page=68), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
+0
+8
+8
+PCM_Keebio
+SOT-23
+SOT-23, Standard
+SOT-23
+0
+3
+3
+PCM_Keebio
+SOT-23-6
+6-pin SOT-23 package
+SOT-23-6
+0
+6
+6
+PCM_Keebio
+SOT-23_Handsoldering
+SOT-23, Handsoldering
+SOT-23
+0
+3
+3
+PCM_Keebio
+SOT-143B
+SOT143B
+
+0
+4
+4
+PCM_Keebio
+SOT-363_SC-70-6
+SOT-363, SC-70-6
+SOT-363 SC-70-6
+0
+6
+6
+PCM_Keebio
+SW_SPST_3x3
+Low-profile SMD Tactile Switch, https://www.e-switch.com/system/asset/product_line/data_sheet/165/TL3342.pdf
+SPST Tactile Switch
+0
+4
+2
+PCM_Keebio
+SW_SPST_TL3342
+Low-profile SMD Tactile Switch, https://www.e-switch.com/system/asset/product_line/data_sheet/165/TL3342.pdf
+SPST Tactile Switch
+0
+4
+2
+PCM_Keebio
+SW_Tactile_SPST_Angled_MJTP1117
+tactile switch SPST right angle, PTS645VL39-2 LFS
+tactile switch SPST angled PTS645VL39-2 LFS C&K Button
+0
+4
+2
+PCM_Keebio
+SW_Tactile_SPST_Angled_MJTP1117-no-mount
+tactile switch SPST right angle, PTS645VL39-2 LFS
+tactile switch SPST angled PTS645VL39-2 LFS C&K Button
+0
+2
+2
+PCM_Keebio
+SinglePad
+
+
+0
+1
+1
+PCM_Keebio
+SolderJumper
+
+
+0
+4
+3
+PCM_Keebio
+SolderJumperLeft
+
+
+0
+3
+3
+PCM_Keebio
+SolderJumperPair
+
+
+0
+6
+3
+PCM_Keebio
+SolderJumperRight
+
+
+0
+3
+3
+PCM_Keebio
+SolderJumperSet
+
+
+0
+12
+6
+PCM_Keebio
+SolderJumperSets
+
+
+0
+6
+2
+PCM_Keebio
+SolidCopper
+Mounting Hole 2.2mm, M2
+mounting hole 2.2mm m2
+0
+2
+1
+PCM_Keebio
+TQFP-32_7x7mm_Pitch0.8mm
+32-Lead Plastic Thin Quad Flatpack (PT) - 7x7x1.0 mm Body, 2.00 mm [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
+QFP 0.8
+0
+32
+32
+PCM_Keebio
+TQFP-44_10x10mm_Pitch0.8mm
+44-Lead Plastic Thin Quad Flatpack (PT) - 10x10x1.0 mm Body [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
+QFP 0.8
+0
+44
+44
+PCM_Keebio
+TQFP-48_7x7mm_Pitch0.5mm
+48 LEAD TQFP 7x7mm (see MICREL TQFP7x7-48LD-PL-1.pdf)
+QFP 0.5
+0
+48
+48
+PCM_Keebio
+TQFP-QFN-44_Combined
+44-Lead Plastic Thin Quad Flatpack (PT) - 10x10x1.0 mm Body [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
+QFP 0.8
+0
+104
+45
+PCM_Keebio
+TRRS-PJ-320A
+
+
+0
+4
+4
+PCM_Keebio
+TRRS-PJ-320A-dual
+
+
+0
+5
+4
+PCM_Keebio
+TRRS-PJ-320A-no-Fmask
+
+
+0
+8
+4
+PCM_Keebio
+TRRS-PJ-320D
+
+
+0
+4
+4
+PCM_Keebio
+TRRS-PJ-605
+
+
+0
+6
+6
+PCM_Keebio
+TRRS-PJ-606
+
+
+0
+6
+6
+PCM_Keebio
+TRRS_Jack
+
+
+0
+6
+6
+PCM_Keebio
+TRRS_Jack-one-sided
+
+
+0
+4
+4
+PCM_Keebio
+TRRS_Jumper
+
+
+0
+6
+6
+PCM_Keebio
+Teensy_2.0
+
+
+0
+31
+31
+PCM_Keebio
+Triple-Dual-1u-LED
+
+
+0
+21
+4
+PCM_Keebio
+Triple-Dual-1u-LED-flip
+
+
+0
+21
+4
+PCM_Keebio
+Triple-Dual-2u-LED
+
+
+0
+21
+4
+PCM_Keebio
+Triple-Dual-2u-LED-stab-flip
+
+
+0
+21
+4
+PCM_Keebio
+USB-C-12-Pin-MidMount
+
+
+0
+16
+13
+PCM_Keebio
+USB-Mini-B_ LCSC-C46398
+
+
+0
+9
+6
+PCM_Keebio
+USB-Mini-B_2leg
+
+
+0
+7
+6
+PCM_Keebio
+USB_miniB_HandSolder
+http://www.hirose.co.jp/cataloge_hp/e24000019.pdf
+USB miniB hirose
+0
+9
+9
+PCM_Keebio
+VIA-0.6mm
+
+
+0
+1
+1
+PCM_Keebio
+WS2812B
+
+
+0
+4
+4
+PCM_Keebio
+WS2812B-4020
+
+
+0
+4
+4
+PCM_Keebio
+breakaway-hole
+
+
+0
+0
+0
+PCM_Keebio
+breakaway-hole-big
+
+
+0
+0
+0
+PCM_Keebio
+breakaway-mousebites
+
+
+0
+0
+0
+PCM_Keebio
+solder_jumper
+
+
+0
+2
+2
 PCM_Mounting_Keyboard_Stabilizer
 Stabilizer_Cherry_MX_2.00u
 Cherry MX PCB Stabilizer 2.00u 2.25u 2.50u 2.75u
@@ -93351,6 +94464,4542 @@ rotary encoder illuminated switch vertical
 0
 9
 8
+ScottoKeebs_Alps
+Alps
+Alps/keyswitch
+Alps Keyboard Keyswitch Switch Plate Cutout
+0
+2
+2
+ScottoKeebs_Alps
+Alps_1.00u
+Alps/keyswitch Keycap 1.00u
+Alps Keyboard Keyswitch Switch Plate Cutout Keycap 1.00u
+0
+2
+2
+ScottoKeebs_Alps
+Alps_1.25u
+Alps/keyswitch Keycap 1.25u
+Alps Keyboard Keyswitch Switch Plate Cutout Keycap 1.25u
+0
+2
+2
+ScottoKeebs_Alps
+Alps_1.50u
+Alps/keyswitch Keycap 1.50u
+Alps Keyboard Keyswitch Switch Plate Cutout Keycap 1.50u
+0
+2
+2
+ScottoKeebs_Alps
+Alps_1.75u
+Alps/keyswitch Keycap 1.75u
+Alps Keyboard Keyswitch Switch Plate Cutout Keycap 1.75u
+0
+2
+2
+ScottoKeebs_Alps
+Alps_2.00u
+Alps/keyswitch Keycap 2.00u
+Alps Keyboard Keyswitch Switch Plate Cutout Keycap 2.00u
+0
+2
+2
+ScottoKeebs_Alps
+Alps_2.25u
+Alps/keyswitch Keycap 2.25u
+Alps Keyboard Keyswitch Switch Plate Cutout Keycap 2.25u
+0
+2
+2
+ScottoKeebs_Alps
+Alps_2.50u
+Alps/keyswitch Keycap 2.50u
+Alps Keyboard Keyswitch Switch Plate Cutout Keycap 2.50u
+0
+2
+2
+ScottoKeebs_Alps
+Alps_2.75u
+Alps/keyswitch Keycap 2.75u
+Alps Keyboard Keyswitch Switch Plate Cutout Keycap 2.75u
+0
+2
+2
+ScottoKeebs_Alps
+Alps_3.00u
+Alps/keyswitch Keycap 3.00u
+Alps Keyboard Keyswitch Switch Plate Cutout Keycap 3.00u
+0
+2
+2
+ScottoKeebs_Alps
+Alps_4.00u
+Alps/keyswitch Keycap 4.00u
+Alps Keyboard Keyswitch Switch Plate Cutout Keycap 4.00u
+0
+2
+2
+ScottoKeebs_Alps
+Alps_4.50u
+Alps/keyswitch Keycap 4.50u
+Alps Keyboard Keyswitch Switch Plate Cutout Keycap 4.50u
+0
+2
+2
+ScottoKeebs_Alps
+Alps_5.50u
+Alps/keyswitch Keycap 5.50u
+Alps Keyboard Keyswitch Switch Plate Cutout Keycap 5.50u
+0
+2
+2
+ScottoKeebs_Alps
+Alps_6.00u
+Alps/keyswitch Keycap 6.00u
+Alps Keyboard Keyswitch Switch Plate Cutout Keycap 6.00u
+0
+2
+2
+ScottoKeebs_Alps
+Alps_6.25u
+Alps/keyswitch Keycap 6.25u
+Alps Keyboard Keyswitch Switch Plate Cutout Keycap 6.25u
+0
+2
+2
+ScottoKeebs_Alps
+Alps_6.50u
+Alps/keyswitch Keycap 6.50u
+Alps Keyboard Keyswitch Switch Plate Cutout Keycap 6.50u
+0
+2
+2
+ScottoKeebs_Alps
+Alps_7.00u
+Alps/keyswitch Keycap 7.00u
+Alps Keyboard Keyswitch Switch Plate Cutout Keycap 7.00u
+0
+2
+2
+ScottoKeebs_Alps
+Alps_ISOEnter
+Alps/keyswitch Keycap ISOEnter
+Alps Keyboard Keyswitch Switch Plate Cutout Keycap ISOEnter
+0
+2
+2
+ScottoKeebs_CAD
+CAD_Choc_1.00u
+Choc keyswitch V1 CPG1350 V1 Keycap 1.00u
+Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 1.00u
+0
+0
+0
+ScottoKeebs_CAD
+CAD_Choc_1.25u
+Choc keyswitch V1 CPG1350 V1 Keycap 1.25u
+Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 1.25u
+0
+0
+0
+ScottoKeebs_CAD
+CAD_Choc_1.50u
+Choc keyswitch V1 CPG1350 V1 Keycap 1.50u
+Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 1.50u
+0
+0
+0
+ScottoKeebs_CAD
+CAD_Choc_1.75u
+Choc keyswitch V1 CPG1350 V1 Keycap 1.75u
+Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 1.75u
+0
+0
+0
+ScottoKeebs_CAD
+CAD_MX_1.00u
+MX keyswitch plate cutout 1.00u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 1.00u
+0
+0
+0
+ScottoKeebs_CAD
+CAD_MX_1.25u
+MX keyswitch plate cutout 1.25u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 1.25u
+0
+0
+0
+ScottoKeebs_CAD
+CAD_MX_1.50u
+MX keyswitch plate cutout 1.50u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 1.50u
+0
+0
+0
+ScottoKeebs_CAD
+CAD_MX_1.75u
+MX keyswitch plate cutout 1.75u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 1.75u
+0
+0
+0
+ScottoKeebs_CAD
+CAD_MX_2.00u
+MX keyswitch plate cutout 2.00u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 2.00u
+0
+0
+0
+ScottoKeebs_CAD
+CAD_MX_2.25u
+MX keyswitch plate cutout 2.25u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 2.25u
+0
+0
+0
+ScottoKeebs_CAD
+CAD_MX_2.50u
+MX keyswitch plate cutout 2.50u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 2.50u
+0
+0
+0
+ScottoKeebs_CAD
+CAD_MX_2.75u
+MX keyswitch plate cutout 2.75u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 2.75u
+0
+0
+0
+ScottoKeebs_CAD
+CAD_MX_3.00u
+MX keyswitch plate cutout 3.00u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 3.00u
+0
+0
+0
+ScottoKeebs_CAD
+CAD_MX_6.25u
+MX keyswitch plate cutout 6.25u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 6.25u
+0
+0
+0
+ScottoKeebs_CAD
+CAD_MX_7.00u
+MX keyswitch plate cutout 7.00u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 7.00u
+0
+0
+0
+ScottoKeebs_CAD
+CAD_MX_10.00u
+MX keyswitch plate cutout 7.00u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 7.00u
+0
+0
+0
+ScottoKeebs_Choc
+Choc_Mini
+Choc Mini CPG1232 low profile keyswitch
+Choc Mini CPG1232 Keyboard Low Profile Keyswitch Switch Cutout
+0
+2
+2
+ScottoKeebs_Choc
+Choc_Mini_1.00u
+Choc Mini CPG1232 low profile keyswitch Keycap 1.00u
+Choc Mini CPG1232 Keyboard Low Profile Keyswitch Switch Cutout Keycap 1.00u
+0
+2
+2
+ScottoKeebs_Choc
+Choc_Mini_1.25u
+Choc Mini CPG1232 low profile keyswitch Keycap 1.25u
+Choc Mini CPG1232 Keyboard Low Profile Keyswitch Switch Cutout Keycap 1.25u
+0
+2
+2
+ScottoKeebs_Choc
+Choc_Mini_1.25u_90deg
+Choc Mini CPG1232 low profile keyswitch Keycap 1.25u 90deg
+Choc Mini CPG1232 Keyboard Low Profile Keyswitch Switch Cutout Keycap 1.25u 90deg
+0
+2
+2
+ScottoKeebs_Choc
+Choc_Mini_1.50u
+Choc Mini CPG1232 low profile keyswitch Keycap 1.50u
+Choc Mini CPG1232 Keyboard Low Profile Keyswitch Switch Cutout Keycap 1.50u
+0
+2
+2
+ScottoKeebs_Choc
+Choc_Mini_1.50u_90deg
+Choc Mini CPG1232 low profile keyswitch Keycap 1.50u 90deg
+Choc Mini CPG1232 Keyboard Low Profile Keyswitch Switch Cutout Keycap 1.50u 90deg
+0
+2
+2
+ScottoKeebs_Choc
+Choc_Mini_1.75u
+Choc Mini CPG1232 low profile keyswitch Keycap 1.75u
+Choc Mini CPG1232 Keyboard Low Profile Keyswitch Switch Cutout Keycap 1.75u
+0
+2
+2
+ScottoKeebs_Choc
+Choc_Mini_1.75u_90deg
+Choc Mini CPG1232 low profile keyswitch Keycap 1.75u 90deg
+Choc Mini CPG1232 Keyboard Low Profile Keyswitch Switch Cutout Keycap 1.75u 90deg
+0
+2
+2
+ScottoKeebs_Choc
+Choc_Mini_2.00u
+Choc Mini CPG1232 low profile keyswitch Keycap 2.00u
+Choc Mini CPG1232 Keyboard Low Profile Keyswitch Switch Cutout Keycap 2.00u
+0
+2
+2
+ScottoKeebs_Choc
+Choc_Mini_2.00u_90deg
+Choc Mini CPG1232 low profile keyswitch Keycap 2.00u 90deg
+Choc Mini CPG1232 Keyboard Low Profile Keyswitch Switch Cutout Keycap 2.00u 90deg
+0
+2
+2
+ScottoKeebs_Choc
+Choc_Mini_2.25u
+Choc Mini CPG1232 low profile keyswitch Keycap 2.25u
+Choc Mini CPG1232 Keyboard Low Profile Keyswitch Switch Cutout Keycap 2.25u
+0
+2
+2
+ScottoKeebs_Choc
+Choc_Mini_2.25u_90deg
+Choc Mini CPG1232 low profile keyswitch Keycap 2.25u 90deg
+Choc Mini CPG1232 Keyboard Low Profile Keyswitch Switch Cutout Keycap 2.25u 90deg
+0
+2
+2
+ScottoKeebs_Choc
+Choc_Mini_2.50u
+Choc Mini CPG1232 low profile keyswitch Keycap 2.50u
+Choc Mini CPG1232 Keyboard Low Profile Keyswitch Switch Cutout Keycap 2.50u
+0
+2
+2
+ScottoKeebs_Choc
+Choc_Mini_2.50u_90deg
+Choc Mini CPG1232 low profile keyswitch Keycap 2.50u 90deg
+Choc Mini CPG1232 Keyboard Low Profile Keyswitch Switch Cutout Keycap 2.50u 90deg
+0
+2
+2
+ScottoKeebs_Choc
+Choc_Mini_2.75u
+Choc Mini CPG1232 low profile keyswitch Keycap 2.75u
+Choc Mini CPG1232 Keyboard Low Profile Keyswitch Switch Cutout Keycap 2.75u
+0
+2
+2
+ScottoKeebs_Choc
+Choc_Mini_2.75u_90deg
+Choc Mini CPG1232 low profile keyswitch Keycap 2.75u 90deg
+Choc Mini CPG1232 Keyboard Low Profile Keyswitch Switch Cutout Keycap 2.75u 90deg
+0
+2
+2
+ScottoKeebs_Choc
+Choc_Mini_3.00u
+Choc Mini CPG1232 low profile keyswitch Keycap 3.00u
+Choc Mini CPG1232 Keyboard Low Profile Keyswitch Switch Cutout Keycap 3.00u
+0
+2
+2
+ScottoKeebs_Choc
+Choc_Mini_3.00u_90deg
+Choc Mini CPG1232 low profile keyswitch Keycap 3.00u 90deg
+Choc Mini CPG1232 Keyboard Low Profile Keyswitch Switch Cutout Keycap 3.00u 90deg
+0
+2
+2
+ScottoKeebs_Choc
+Choc_Mini_4.00u
+Choc Mini CPG1232 low profile keyswitch Keycap 4.00u
+Choc Mini CPG1232 Keyboard Low Profile Keyswitch Switch Cutout Keycap 4.00u
+0
+2
+2
+ScottoKeebs_Choc
+Choc_Mini_4.50u
+Choc Mini CPG1232 low profile keyswitch Keycap 4.50u
+Choc Mini CPG1232 Keyboard Low Profile Keyswitch Switch Cutout Keycap 4.50u
+0
+2
+2
+ScottoKeebs_Choc
+Choc_Mini_5.50u
+Choc Mini CPG1232 low profile keyswitch Keycap 5.50u
+Choc Mini CPG1232 Keyboard Low Profile Keyswitch Switch Cutout Keycap 5.50u
+0
+2
+2
+ScottoKeebs_Choc
+Choc_Mini_6.00u
+Choc Mini CPG1232 low profile keyswitch Keycap 6.00u
+Choc Mini CPG1232 Keyboard Low Profile Keyswitch Switch Cutout Keycap 6.00u
+0
+2
+2
+ScottoKeebs_Choc
+Choc_Mini_6.00u_Offset
+Choc Mini CPG1232 low profile keyswitch Keycap 6.00u Offset
+Choc Mini CPG1232 Keyboard Low Profile Keyswitch Switch Cutout Keycap 6.00u Offset
+0
+2
+2
+ScottoKeebs_Choc
+Choc_Mini_6.25u
+Choc Mini CPG1232 low profile keyswitch Keycap 6.25u
+Choc Mini CPG1232 Keyboard Low Profile Keyswitch Switch Cutout Keycap 6.25u
+0
+2
+2
+ScottoKeebs_Choc
+Choc_Mini_6.50u
+Choc Mini CPG1232 low profile keyswitch Keycap 6.50u
+Choc Mini CPG1232 Keyboard Low Profile Keyswitch Switch Cutout Keycap 6.50u
+0
+2
+2
+ScottoKeebs_Choc
+Choc_Mini_7.00u
+Choc Mini CPG1232 low profile keyswitch Keycap 7.00u
+Choc Mini CPG1232 Keyboard Low Profile Keyswitch Switch Cutout Keycap 7.00u
+0
+2
+2
+ScottoKeebs_Choc
+Choc_Mini_ISOEnter
+Choc Mini CPG1232 low profile keyswitch Keycap ISOEnter
+Choc Mini CPG1232 Keyboard Low Profile Keyswitch Switch Cutout Keycap ISOEnter
+0
+2
+2
+ScottoKeebs_Choc
+Choc_Mini_ISOEnter_90deg
+Choc Mini CPG1232 low profile keyswitch Keycap ISOEnter 90deg
+Choc Mini CPG1232 Keyboard Low Profile Keyswitch Switch Cutout Keycap ISOEnter 90deg
+0
+2
+2
+ScottoKeebs_Choc
+Choc_Mini_ISOEnter_180deg
+Choc Mini CPG1232 low profile keyswitch Keycap ISOEnter 180deg
+Choc Mini CPG1232 Keyboard Low Profile Keyswitch Switch Cutout Keycap ISOEnter 180deg
+0
+2
+2
+ScottoKeebs_Choc
+Choc_Mini_ISOEnter_270deg
+Choc Mini CPG1232 low profile keyswitch Keycap ISOEnter 270deg
+Choc Mini CPG1232 Keyboard Low Profile Keyswitch Switch Cutout Keycap ISOEnter 270deg
+0
+2
+2
+ScottoKeebs_Choc
+Choc_V1
+Choc keyswitch V1 CPG1350 V1
+Choc Keyswitch Switch CPG1350 V1 Cutout
+0
+2
+2
+ScottoKeebs_Choc
+Choc_V1V2
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout
+0
+3
+2
+ScottoKeebs_Choc
+Choc_V1V2_1.00u
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 1.00u
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 1.00u
+0
+3
+2
+ScottoKeebs_Choc
+Choc_V1V2_1.25u
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 1.25u
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 1.25u
+0
+3
+2
+ScottoKeebs_Choc
+Choc_V1V2_1.25u_90deg
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 1.25u 90deg
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 1.25u 90deg
+0
+3
+2
+ScottoKeebs_Choc
+Choc_V1V2_1.50u
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 1.50u
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 1.50u
+0
+3
+2
+ScottoKeebs_Choc
+Choc_V1V2_1.50u_90deg
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 1.50u 90deg
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 1.50u 90deg
+0
+3
+2
+ScottoKeebs_Choc
+Choc_V1V2_1.75u
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 1.75u
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 1.75u
+0
+3
+2
+ScottoKeebs_Choc
+Choc_V1V2_1.75u_90deg
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 1.75u 90deg
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 1.75u 90deg
+0
+3
+2
+ScottoKeebs_Choc
+Choc_V1V2_2.00u
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 2.00u
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 2.00u
+0
+3
+2
+ScottoKeebs_Choc
+Choc_V1V2_2.00u_90deg
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 2.00u 90deg
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 2.00u 90deg
+0
+3
+2
+ScottoKeebs_Choc
+Choc_V1V2_2.25u
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 2.25u
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 2.25u
+0
+3
+2
+ScottoKeebs_Choc
+Choc_V1V2_2.25u_90deg
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 2.25u 90deg
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 2.25u 90deg
+0
+3
+2
+ScottoKeebs_Choc
+Choc_V1V2_2.50u
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 2.50u
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 2.50u
+0
+3
+2
+ScottoKeebs_Choc
+Choc_V1V2_2.50u_90deg
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 2.50u 90deg
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 2.50u 90deg
+0
+3
+2
+ScottoKeebs_Choc
+Choc_V1V2_2.75u
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 2.75u
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 2.75u
+0
+3
+2
+ScottoKeebs_Choc
+Choc_V1V2_2.75u_90deg
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 2.75u 90deg
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 2.75u 90deg
+0
+3
+2
+ScottoKeebs_Choc
+Choc_V1V2_3.00u
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 3.00u
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 3.00u
+0
+3
+2
+ScottoKeebs_Choc
+Choc_V1V2_3.00u_90deg
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 3.00u 90deg
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 3.00u 90deg
+0
+3
+2
+ScottoKeebs_Choc
+Choc_V1V2_4.00u
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 4.00u
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 4.00u
+0
+3
+2
+ScottoKeebs_Choc
+Choc_V1V2_4.50u
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 4.50u
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 4.50u
+0
+3
+2
+ScottoKeebs_Choc
+Choc_V1V2_5.50u
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 5.50u
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 5.50u
+0
+3
+2
+ScottoKeebs_Choc
+Choc_V1V2_6.00u
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 6.00u
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 6.00u
+0
+3
+2
+ScottoKeebs_Choc
+Choc_V1V2_6.00u_Offset
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 6.00u Offset
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 6.00u Offset
+0
+3
+2
+ScottoKeebs_Choc
+Choc_V1V2_6.25u
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 6.25u
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 6.25u
+0
+3
+2
+ScottoKeebs_Choc
+Choc_V1V2_6.50u
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 6.50u
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 6.50u
+0
+3
+2
+ScottoKeebs_Choc
+Choc_V1V2_7.00u
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap 7.00u
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap 7.00u
+0
+3
+2
+ScottoKeebs_Choc
+Choc_V1V2_ISOEnter
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap ISOEnter
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap ISOEnter
+0
+3
+2
+ScottoKeebs_Choc
+Choc_V1V2_ISOEnter_90deg
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap ISOEnter 90deg
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap ISOEnter 90deg
+0
+3
+2
+ScottoKeebs_Choc
+Choc_V1V2_ISOEnter_180deg
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap ISOEnter 180deg
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap ISOEnter 180deg
+0
+3
+2
+ScottoKeebs_Choc
+Choc_V1V2_ISOEnter_270deg
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Keycap ISOEnter 270deg
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout Keycap ISOEnter 270deg
+0
+3
+2
+ScottoKeebs_Choc
+Choc_V1_1.00u
+Choc keyswitch V1 CPG1350 V1 Keycap 1.00u
+Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 1.00u
+0
+2
+2
+ScottoKeebs_Choc
+Choc_V1_1.25u
+Choc keyswitch V1 CPG1350 V1 Keycap 1.25u
+Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 1.25u
+0
+2
+2
+ScottoKeebs_Choc
+Choc_V1_1.25u_90deg
+Choc keyswitch V1 CPG1350 V1 Keycap 1.25u 90deg
+Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 1.25u 90deg
+0
+2
+2
+ScottoKeebs_Choc
+Choc_V1_1.50u
+Choc keyswitch V1 CPG1350 V1 Keycap 1.50u
+Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 1.50u
+0
+2
+2
+ScottoKeebs_Choc
+Choc_V1_1.50u_90deg
+Choc keyswitch V1 CPG1350 V1 Keycap 1.50u 90deg
+Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 1.50u 90deg
+0
+2
+2
+ScottoKeebs_Choc
+Choc_V1_1.75u
+Choc keyswitch V1 CPG1350 V1 Keycap 1.75u
+Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 1.75u
+0
+2
+2
+ScottoKeebs_Choc
+Choc_V1_1.75u_90deg
+Choc keyswitch V1 CPG1350 V1 Keycap 1.75u 90deg
+Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 1.75u 90deg
+0
+2
+2
+ScottoKeebs_Choc
+Choc_V1_2.00u
+Choc keyswitch V1 CPG1350 V1 Keycap 2.00u
+Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 2.00u
+0
+2
+2
+ScottoKeebs_Choc
+Choc_V1_2.00u_90deg
+Choc keyswitch V1 CPG1350 V1 Keycap 2.00u 90deg
+Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 2.00u 90deg
+0
+2
+2
+ScottoKeebs_Choc
+Choc_V1_2.25u
+Choc keyswitch V1 CPG1350 V1 Keycap 2.25u
+Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 2.25u
+0
+2
+2
+ScottoKeebs_Choc
+Choc_V1_2.25u_90deg
+Choc keyswitch V1 CPG1350 V1 Keycap 2.25u 90deg
+Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 2.25u 90deg
+0
+2
+2
+ScottoKeebs_Choc
+Choc_V1_2.50u
+Choc keyswitch V1 CPG1350 V1 Keycap 2.50u
+Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 2.50u
+0
+2
+2
+ScottoKeebs_Choc
+Choc_V1_2.50u_90deg
+Choc keyswitch V1 CPG1350 V1 Keycap 2.50u 90deg
+Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 2.50u 90deg
+0
+2
+2
+ScottoKeebs_Choc
+Choc_V1_2.75u
+Choc keyswitch V1 CPG1350 V1 Keycap 2.75u
+Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 2.75u
+0
+2
+2
+ScottoKeebs_Choc
+Choc_V1_2.75u_90deg
+Choc keyswitch V1 CPG1350 V1 Keycap 2.75u 90deg
+Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 2.75u 90deg
+0
+2
+2
+ScottoKeebs_Choc
+Choc_V1_3.00u
+Choc keyswitch V1 CPG1350 V1 Keycap 3.00u
+Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 3.00u
+0
+2
+2
+ScottoKeebs_Choc
+Choc_V1_3.00u_90deg
+Choc keyswitch V1 CPG1350 V1 Keycap 3.00u 90deg
+Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 3.00u 90deg
+0
+2
+2
+ScottoKeebs_Choc
+Choc_V1_4.00u
+Choc keyswitch V1 CPG1350 V1 Keycap 4.00u
+Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 4.00u
+0
+2
+2
+ScottoKeebs_Choc
+Choc_V1_4.50u
+Choc keyswitch V1 CPG1350 V1 Keycap 4.50u
+Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 4.50u
+0
+2
+2
+ScottoKeebs_Choc
+Choc_V1_5.50u
+Choc keyswitch V1 CPG1350 V1 Keycap 5.50u
+Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 5.50u
+0
+2
+2
+ScottoKeebs_Choc
+Choc_V1_6.00u
+Choc keyswitch V1 CPG1350 V1 Keycap 6.00u
+Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 6.00u
+0
+2
+2
+ScottoKeebs_Choc
+Choc_V1_6.00u_Offset
+Choc keyswitch V1 CPG1350 V1 Keycap 6.00u Offset
+Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 6.00u Offset
+0
+2
+2
+ScottoKeebs_Choc
+Choc_V1_6.25u
+Choc keyswitch V1 CPG1350 V1 Keycap 6.25u
+Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 6.25u
+0
+2
+2
+ScottoKeebs_Choc
+Choc_V1_6.50u
+Choc keyswitch V1 CPG1350 V1 Keycap 6.50u
+Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 6.50u
+0
+2
+2
+ScottoKeebs_Choc
+Choc_V1_7.00u
+Choc keyswitch V1 CPG1350 V1 Keycap 7.00u
+Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 7.00u
+0
+2
+2
+ScottoKeebs_Choc
+Choc_V1_ISOEnter
+Choc keyswitch V1 CPG1350 V1 Keycap ISOEnter
+Choc Keyswitch Switch CPG1350 V1 Cutout Keycap ISOEnter
+0
+2
+2
+ScottoKeebs_Choc
+Choc_V1_ISOEnter_90deg
+Choc keyswitch V1 CPG1350 V1 Keycap ISOEnter 90deg
+Choc Keyswitch Switch CPG1350 V1 Cutout Keycap ISOEnter 90deg
+0
+2
+2
+ScottoKeebs_Choc
+Choc_V1_ISOEnter_180deg
+Choc keyswitch V1 CPG1350 V1 Keycap ISOEnter 180deg
+Choc Keyswitch Switch CPG1350 V1 Cutout Keycap ISOEnter 180deg
+0
+2
+2
+ScottoKeebs_Choc
+Choc_V1_ISOEnter_270deg
+Choc keyswitch V1 CPG1350 V1 Keycap ISOEnter 270deg
+Choc Keyswitch Switch CPG1350 V1 Cutout Keycap ISOEnter 270deg
+0
+2
+2
+ScottoKeebs_Choc
+Choc_V2
+Choc keyswitch V2 CPG1353 V2
+Choc Keyswitch Switch CPG1353 V2 Cutout
+0
+3
+2
+ScottoKeebs_Choc
+Choc_V2_1.00u
+Choc keyswitch V2 CPG1353 V2 Keycap 1.00u
+Choc Keyswitch Switch CPG1353 V2 Cutout Keycap 1.00u
+0
+3
+2
+ScottoKeebs_Choc
+Choc_V2_1.25u
+Choc keyswitch V2 CPG1353 V2 Keycap 1.25u
+Choc Keyswitch Switch CPG1353 V2 Cutout Keycap 1.25u
+0
+3
+2
+ScottoKeebs_Choc
+Choc_V2_1.25u_90deg
+Choc keyswitch V2 CPG1353 V2 Keycap 1.25u 90deg
+Choc Keyswitch Switch CPG1353 V2 Cutout Keycap 1.25u 90deg
+0
+3
+2
+ScottoKeebs_Choc
+Choc_V2_1.50u
+Choc keyswitch V2 CPG1353 V2 Keycap 1.50u
+Choc Keyswitch Switch CPG1353 V2 Cutout Keycap 1.50u
+0
+3
+2
+ScottoKeebs_Choc
+Choc_V2_1.50u_90deg
+Choc keyswitch V2 CPG1353 V2 Keycap 1.50u 90deg
+Choc Keyswitch Switch CPG1353 V2 Cutout Keycap 1.50u 90deg
+0
+3
+2
+ScottoKeebs_Choc
+Choc_V2_1.75u
+Choc keyswitch V2 CPG1353 V2 Keycap 1.75u
+Choc Keyswitch Switch CPG1353 V2 Cutout Keycap 1.75u
+0
+3
+2
+ScottoKeebs_Choc
+Choc_V2_1.75u_90deg
+Choc keyswitch V2 CPG1353 V2 Keycap 1.75u 90deg
+Choc Keyswitch Switch CPG1353 V2 Cutout Keycap 1.75u 90deg
+0
+3
+2
+ScottoKeebs_Choc
+Choc_V2_2.00u
+Choc keyswitch V2 CPG1353 V2 Keycap 2.00u
+Choc Keyswitch Switch CPG1353 V2 Cutout Keycap 2.00u
+0
+3
+2
+ScottoKeebs_Choc
+Choc_V2_2.00u_90deg
+Choc keyswitch V2 CPG1353 V2 Keycap 2.00u 90deg
+Choc Keyswitch Switch CPG1353 V2 Cutout Keycap 2.00u 90deg
+0
+3
+2
+ScottoKeebs_Choc
+Choc_V2_2.25u
+Choc keyswitch V2 CPG1353 V2 Keycap 2.25u
+Choc Keyswitch Switch CPG1353 V2 Cutout Keycap 2.25u
+0
+3
+2
+ScottoKeebs_Choc
+Choc_V2_2.25u_90deg
+Choc keyswitch V2 CPG1353 V2 Keycap 2.25u 90deg
+Choc Keyswitch Switch CPG1353 V2 Cutout Keycap 2.25u 90deg
+0
+3
+2
+ScottoKeebs_Choc
+Choc_V2_2.50u
+Choc keyswitch V2 CPG1353 V2 Keycap 2.50u
+Choc Keyswitch Switch CPG1353 V2 Cutout Keycap 2.50u
+0
+3
+2
+ScottoKeebs_Choc
+Choc_V2_2.50u_90deg
+Choc keyswitch V2 CPG1353 V2 Keycap 2.50u 90deg
+Choc Keyswitch Switch CPG1353 V2 Cutout Keycap 2.50u 90deg
+0
+3
+2
+ScottoKeebs_Choc
+Choc_V2_2.75u
+Choc keyswitch V2 CPG1353 V2 Keycap 2.75u
+Choc Keyswitch Switch CPG1353 V2 Cutout Keycap 2.75u
+0
+3
+2
+ScottoKeebs_Choc
+Choc_V2_2.75u_90deg
+Choc keyswitch V2 CPG1353 V2 Keycap 2.75u 90deg
+Choc Keyswitch Switch CPG1353 V2 Cutout Keycap 2.75u 90deg
+0
+3
+2
+ScottoKeebs_Choc
+Choc_V2_3.00u
+Choc keyswitch V2 CPG1353 V2 Keycap 3.00u
+Choc Keyswitch Switch CPG1353 V2 Cutout Keycap 3.00u
+0
+3
+2
+ScottoKeebs_Choc
+Choc_V2_3.00u_90deg
+Choc keyswitch V2 CPG1353 V2 Keycap 3.00u 90deg
+Choc Keyswitch Switch CPG1353 V2 Cutout Keycap 3.00u 90deg
+0
+3
+2
+ScottoKeebs_Choc
+Choc_V2_4.00u
+Choc keyswitch V2 CPG1353 V2 Keycap 4.00u
+Choc Keyswitch Switch CPG1353 V2 Cutout Keycap 4.00u
+0
+3
+2
+ScottoKeebs_Choc
+Choc_V2_4.50u
+Choc keyswitch V2 CPG1353 V2 Keycap 4.50u
+Choc Keyswitch Switch CPG1353 V2 Cutout Keycap 4.50u
+0
+3
+2
+ScottoKeebs_Choc
+Choc_V2_5.50u
+Choc keyswitch V2 CPG1353 V2 Keycap 5.50u
+Choc Keyswitch Switch CPG1353 V2 Cutout Keycap 5.50u
+0
+3
+2
+ScottoKeebs_Choc
+Choc_V2_6.00u
+Choc keyswitch V2 CPG1353 V2 Keycap 6.00u
+Choc Keyswitch Switch CPG1353 V2 Cutout Keycap 6.00u
+0
+3
+2
+ScottoKeebs_Choc
+Choc_V2_6.00u_Offset
+Choc keyswitch V2 CPG1353 V2 Keycap 6.00u Offset
+Choc Keyswitch Switch CPG1353 V2 Cutout Keycap 6.00u Offset
+0
+3
+2
+ScottoKeebs_Choc
+Choc_V2_6.25u
+Choc keyswitch V2 CPG1353 V2 Keycap 6.25u
+Choc Keyswitch Switch CPG1353 V2 Cutout Keycap 6.25u
+0
+3
+2
+ScottoKeebs_Choc
+Choc_V2_6.50u
+Choc keyswitch V2 CPG1353 V2 Keycap 6.50u
+Choc Keyswitch Switch CPG1353 V2 Cutout Keycap 6.50u
+0
+3
+2
+ScottoKeebs_Choc
+Choc_V2_7.00u
+Choc keyswitch V2 CPG1353 V2 Keycap 7.00u
+Choc Keyswitch Switch CPG1353 V2 Cutout Keycap 7.00u
+0
+3
+2
+ScottoKeebs_Choc
+Choc_V2_ISOEnter
+Choc keyswitch V2 CPG1353 V2 Keycap ISOEnter
+Choc Keyswitch Switch CPG1353 V2 Cutout Keycap ISOEnter
+0
+3
+2
+ScottoKeebs_Choc
+Choc_V2_ISOEnter_90deg
+Choc keyswitch V2 CPG1353 V2 Keycap ISOEnter 90deg
+Choc Keyswitch Switch CPG1353 V2 Cutout Keycap ISOEnter 90deg
+0
+3
+2
+ScottoKeebs_Choc
+Choc_V2_ISOEnter_180deg
+Choc keyswitch V2 CPG1353 V2 Keycap ISOEnter 180deg
+Choc Keyswitch Switch CPG1353 V2 Cutout Keycap ISOEnter 180deg
+0
+3
+2
+ScottoKeebs_Choc
+Choc_V2_ISOEnter_270deg
+Choc keyswitch V2 CPG1353 V2 Keycap ISOEnter 270deg
+Choc Keyswitch Switch CPG1353 V2 Cutout Keycap ISOEnter 270deg
+0
+3
+2
+ScottoKeebs_Components
+Battery_Holder_2032
+http://www.keyelco.com/product-pdf.cfm?p=726
+CR2032 BR2032 BatteryHolder Battery
+0
+2
+2
+ScottoKeebs_Components
+Button_MJTP1243
+tactile push button, 6x3.5mm, https://www.apem.com/idec-apem/en_US/PCB-switches/Tactile-Switches/MJTP-6mm-through-hole/c/MJTP_6mm_through%20hole?page=1
+PHAP3362 6mm tact sw THT
+0
+2
+2
+ScottoKeebs_Components
+Button_MJTP1250
+tactile push button, 6x3.5mm, https://www.apem.com/idec-apem/en_US/PCB-switches/Tactile-Switches/MJTP-6mm-through-hole/c/MJTP_6mm_through%20hole?page=1
+PHAP3362A 6mm tact sw THT
+0
+2
+2
+ScottoKeebs_Components
+Button_TL3342
+Low-profile SMD Tactile Switch, https://www.e-switch.com/system/asset/product_line/data_sheet/165/TL3342.pdf
+SPST Tactile Switch
+0
+4
+2
+ScottoKeebs_Components
+Capacitor_0402
+Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+ScottoKeebs_Components
+Capacitor_0603
+Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+ScottoKeebs_Components
+Diode_DO-35
+Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf
+Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm
+0
+2
+2
+ScottoKeebs_Components
+Diode_SOD-123
+SOD-123
+SOD-123
+0
+2
+2
+ScottoKeebs_Components
+ESD_SOT-23-6
+SOT, 6 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178c.PDF variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT TO_SOT_SMD
+0
+6
+6
+ScottoKeebs_Components
+Fuse_0603
+Fuse SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+fuse
+0
+2
+2
+ScottoKeebs_Components
+LED_SK6812MINI
+
+
+0
+4
+4
+ScottoKeebs_Components
+LED_WS2812B
+https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf
+LED RGB NeoPixel
+0
+4
+4
+ScottoKeebs_Components
+OLED_128x32
+
+
+0
+4
+4
+ScottoKeebs_Components
+OLED_128x64
+
+
+0
+4
+4
+ScottoKeebs_Components
+Package_LQFP-48_7x7mm_P0.5
+LQFP, 48 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/ltc2358-16.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP
+0
+48
+48
+ScottoKeebs_Components
+Resistor_0402
+Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+ScottoKeebs_Components
+Switch_MSK12C02
+12V 50mA SMD toggle switch, available at LCSC/JLCPCB (C431541)
+switch toggle smd 
+0
+7
+4
+ScottoKeebs_Components
+TRRS_PJ-320A
+
+
+0
+4
+4
+ScottoKeebs_Components
+USB_C_918-418K2024S40000
+
+
+0
+16
+11
+ScottoKeebs_Components
+USB_C_HRO_TYPE-C-31-M-12
+USB Type-C receptacle for USB 2.0 and PD, http://www.krhro.com/uploads/soft/180320/1-1P320120243.pdf
+usb usb-c 2.0 pd
+0
+20
+17
+ScottoKeebs_Components
+USB_C_HRO_TYPE-C-31-M-14
+USB Type-C receptacle for USB 2.0 and PD
+usb usb-c 2.0 pd
+0
+20
+17
+ScottoKeebs_Components
+Voltage_SOT-23
+SOT, 3 Pin (https://www.jedec.org/system/files/docs/to-236h.pdf variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT TO_SOT_SMD
+0
+3
+3
+ScottoKeebs_Cutout
+Cutout_Choc
+Choc keyswitch V1 CPG1350 V1
+Choc Keyswitch Switch CPG1350 V1 Cutout
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_Choc_1.00u
+Choc keyswitch V1 CPG1350 V1 Keycap 1.00u
+Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 1.00u
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_Choc_1.25u
+Choc keyswitch V1 CPG1350 V1 Keycap 1.25u
+Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 1.25u
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_Choc_1.25u_90deg
+Choc keyswitch V1 CPG1350 V1 Keycap 1.25u 90deg
+Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 1.25u 90deg
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_Choc_1.50u
+Choc keyswitch V1 CPG1350 V1 Keycap 1.50u
+Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 1.50u
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_Choc_1.50u_90deg
+Choc keyswitch V1 CPG1350 V1 Keycap 1.50u 90deg
+Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 1.50u 90deg
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_Choc_1.75u
+Choc keyswitch V1 CPG1350 V1 Keycap 1.75u
+Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 1.75u
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_Choc_1.75u_90deg
+Choc keyswitch V1 CPG1350 V1 Keycap 1.75u 90deg
+Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 1.75u 90deg
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_Choc_2.00u
+Choc keyswitch V1 CPG1350 V1 Keycap 2.00u
+Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 2.00u
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_Choc_2.00u_90deg
+Choc keyswitch V1 CPG1350 V1 Keycap 2.00u 90deg
+Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 2.00u 90deg
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_Choc_2.25u
+Choc keyswitch V1 CPG1350 V1 Keycap 2.25u
+Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 2.25u
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_Choc_2.25u_90deg
+Choc keyswitch V1 CPG1350 V1 Keycap 2.25u 90deg
+Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 2.25u 90deg
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_Choc_2.50u
+Choc keyswitch V1 CPG1350 V1 Keycap 2.50u
+Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 2.50u
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_Choc_2.50u_90deg
+Choc keyswitch V1 CPG1350 V1 Keycap 2.50u 90deg
+Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 2.50u 90deg
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_Choc_2.75u
+Choc keyswitch V1 CPG1350 V1 Keycap 2.75u
+Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 2.75u
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_Choc_2.75u_90deg
+Choc keyswitch V1 CPG1350 V1 Keycap 2.75u 90deg
+Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 2.75u 90deg
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_Choc_3.00u
+Choc keyswitch V1 CPG1350 V1 Keycap 3.00u
+Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 3.00u
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_Choc_3.00u_90deg
+Choc keyswitch V1 CPG1350 V1 Keycap 3.00u 90deg
+Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 3.00u 90deg
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_Choc_4.00u
+Choc keyswitch V1 CPG1350 V1 Keycap 4.00u
+Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 4.00u
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_Choc_4.50u
+Choc keyswitch V1 CPG1350 V1 Keycap 4.50u
+Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 4.50u
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_Choc_5.50u
+Choc keyswitch V1 CPG1350 V1 Keycap 5.50u
+Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 5.50u
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_Choc_6.00u
+Choc keyswitch V1 CPG1350 V1 Keycap 6.00u
+Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 6.00u
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_Choc_6.00u_Offset
+Choc keyswitch V1 CPG1350 V1 Keycap 6.00u Offset
+Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 6.00u Offset
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_Choc_6.25u
+Choc keyswitch V1 CPG1350 V1 Keycap 6.25u
+Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 6.25u
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_Choc_6.50u
+Choc keyswitch V1 CPG1350 V1 Keycap 6.50u
+Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 6.50u
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_Choc_7.00u
+Choc keyswitch V1 CPG1350 V1 Keycap 7.00u
+Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 7.00u
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_Choc_ISOEnter
+Choc keyswitch V1 CPG1350 V1 Keycap ISOEnter
+Choc Keyswitch Switch CPG1350 V1 Cutout Keycap ISOEnter
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_Choc_ISOEnter_90deg
+Choc keyswitch V1 CPG1350 V1 Keycap ISOEnter 90deg
+Choc Keyswitch Switch CPG1350 V1 Cutout Keycap ISOEnter 90deg
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_Choc_ISOEnter_180deg
+Choc keyswitch V1 CPG1350 V1 Keycap ISOEnter 180deg
+Choc Keyswitch Switch CPG1350 V1 Cutout Keycap ISOEnter 180deg
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_Choc_ISOEnter_270deg
+Choc keyswitch V1 CPG1350 V1 Keycap ISOEnter 270deg
+Choc Keyswitch Switch CPG1350 V1 Cutout Keycap ISOEnter 270deg
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_MX
+MX keyswitch Plate Mount
+MX Keyboard Keyswitch Switch Plate Cutout
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_MX_1.00u
+MX keyswitch plate cutout 1.00u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 1.00u
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_MX_1.25u
+MX keyswitch plate cutout 1.25u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 1.25u
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_MX_1.25u_90deg
+MX keyswitch plate cutout 1.25u 90deg
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 1.25u 90deg
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_MX_1.50u
+MX keyswitch plate cutout 1.50u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 1.50u
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_MX_1.50u_90deg
+MX keyswitch plate cutout 1.50u 90deg
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 1.50u 90deg
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_MX_1.75u
+MX keyswitch plate cutout 1.75u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 1.75u
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_MX_1.75u_90deg
+MX keyswitch plate cutout 1.75u 90deg
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 1.75u 90deg
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_MX_2.00u
+MX keyswitch plate cutout 2.00u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 2.00u
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_MX_2.00u_90deg
+MX keyswitch plate cutout 2.00u 90deg
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 2.00u 90deg
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_MX_2.25u
+MX keyswitch plate cutout 2.25u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 2.25u
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_MX_2.25u_90deg
+MX keyswitch plate cutout 2.25u 90deg
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 2.25u 90deg
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_MX_2.50u
+MX keyswitch plate cutout 2.50u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 2.50u
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_MX_2.50u_90deg
+MX keyswitch plate cutout 2.50u 90deg
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 2.50u 90deg
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_MX_2.75u
+MX keyswitch plate cutout 2.75u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 2.75u
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_MX_2.75u_90deg
+MX keyswitch plate cutout 2.75u 90deg
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 2.75u 90deg
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_MX_3.00u
+MX keyswitch plate cutout 3.00u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 3.00u
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_MX_3.00u_90deg
+MX keyswitch plate cutout 3.00u 90deg
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 3.00u 90deg
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_MX_4.00u
+MX keyswitch plate cutout 4.00u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 4.00u
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_MX_4.50u
+MX keyswitch plate cutout 4.50u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 4.50u
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_MX_5.50u
+MX keyswitch plate cutout 5.50u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 5.50u
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_MX_6.00u
+MX keyswitch plate cutout 6.00u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 6.00u
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_MX_6.00u_Offset
+MX keyswitch plate cutout 6.00u Offset
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 6.00u Offset
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_MX_6.25u
+MX keyswitch plate cutout 6.25u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 6.25u
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_MX_6.50u
+MX keyswitch plate cutout 6.50u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 6.50u
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_MX_7.00u
+MX keyswitch plate cutout 7.00u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 7.00u
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_MX_ISOEnter
+MX keyswitch plate cutout ISOEnter
+MX Keyboard Keyswitch Switch Plate Cutout Keycap ISOEnter
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_MX_ISOEnter_90deg
+MX keyswitch plate cutout ISOEnter 90deg
+MX Keyboard Keyswitch Switch Plate Cutout Keycap ISOEnter 90deg
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_MX_ISOEnter_180deg
+MX keyswitch plate cutout ISOEnter 180deg
+MX Keyboard Keyswitch Switch Plate Cutout Keycap ISOEnter 180deg
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_MX_ISOEnter_270deg
+MX keyswitch plate cutout ISOEnter 270deg
+MX Keyboard Keyswitch Switch Plate Cutout Keycap ISOEnter 270deg
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_Socket_2x12
+
+
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_Stabilizer_2.00u
+MX keyswitch plate cutout 2.00u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 2.00u
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_Stabilizer_3.00u
+MX keyswitch plate cutout 2.00u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 2.00u
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_Stabilizer_6.25u
+MX keyswitch plate cutout 2.00u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 2.00u
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_Stabilizer_6.50u
+MX keyswitch plate cutout 2.00u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 2.00u
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_Stabilizer_7.00u
+MX keyswitch plate cutout 2.00u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 2.00u
+0
+0
+0
+ScottoKeebs_Cutout
+Cutout_Stabilizer_10.00u
+MX keyswitch plate cutout 2.00u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 2.00u
+0
+0
+0
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1
+Choc keyswitch V1 CPG1350 V1 Hotswap
+Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1V2
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1V2_1.00u
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Keycap 1.00u
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout Keycap 1.00u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1V2_1.25u
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Keycap 1.25u
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout Keycap 1.25u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1V2_1.25u_90deg
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Keycap 1.25u 90deg
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout Keycap 1.25u 90deg
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1V2_1.50u
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Keycap 1.50u
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout Keycap 1.50u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1V2_1.50u_90deg
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Keycap 1.50u 90deg
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout Keycap 1.50u 90deg
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1V2_1.75u
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Keycap 1.75u
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout Keycap 1.75u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1V2_1.75u_90deg
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Keycap 1.75u 90deg
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout Keycap 1.75u 90deg
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1V2_2.00u
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Keycap 2.00u
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout Keycap 2.00u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1V2_2.00u_90deg
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Keycap 2.00u 90deg
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout Keycap 2.00u 90deg
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1V2_2.25u
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Keycap 2.25u
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout Keycap 2.25u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1V2_2.25u_90deg
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Keycap 2.25u 90deg
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout Keycap 2.25u 90deg
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1V2_2.50u
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Keycap 2.50u
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout Keycap 2.50u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1V2_2.50u_90deg
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Keycap 2.50u 90deg
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout Keycap 2.50u 90deg
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1V2_2.75u
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Keycap 2.75u
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout Keycap 2.75u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1V2_2.75u_90deg
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Keycap 2.75u 90deg
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout Keycap 2.75u 90deg
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1V2_3.00u
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Keycap 3.00u
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout Keycap 3.00u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1V2_3.00u_90deg
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Keycap 3.00u 90deg
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout Keycap 3.00u 90deg
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1V2_4.00u
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Keycap 4.00u
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout Keycap 4.00u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1V2_4.50u
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Keycap 4.50u
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout Keycap 4.50u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1V2_5.50u
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Keycap 5.50u
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout Keycap 5.50u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1V2_6.00u
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Keycap 6.00u
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout Keycap 6.00u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1V2_6.00u_Offset
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Keycap 6.00u Offset
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout Keycap 6.00u Offset
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1V2_6.25u
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Keycap 6.25u
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout Keycap 6.25u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1V2_6.50u
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Keycap 6.50u
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout Keycap 6.50u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1V2_7.00u
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Keycap 7.00u
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout Keycap 7.00u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1V2_ISOEnter
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Keycap ISOEnter
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout Keycap ISOEnter
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1V2_ISOEnter_90deg
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Keycap ISOEnter 90deg
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout Keycap ISOEnter 90deg
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1V2_ISOEnter_180deg
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Keycap ISOEnter 180deg
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout Keycap ISOEnter 180deg
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1V2_ISOEnter_270deg
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Keycap ISOEnter 270deg
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout Keycap ISOEnter 270deg
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1V2_Plated
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Plated
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout
+0
+7
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1V2_Plated_1.00u
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Plated Keycap 1.00u
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout Keycap 1.00u
+0
+7
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1V2_Plated_1.25u
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Plated Keycap 1.25u
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout Keycap 1.25u
+0
+7
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1V2_Plated_1.25u_90deg
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Plated Keycap 1.25u 90deg
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout Keycap 1.25u 90deg
+0
+7
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1V2_Plated_1.50u
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Plated Keycap 1.50u
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout Keycap 1.50u
+0
+7
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1V2_Plated_1.50u_90deg
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Plated Keycap 1.50u 90deg
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout Keycap 1.50u 90deg
+0
+7
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1V2_Plated_1.75u
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Plated Keycap 1.75u
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout Keycap 1.75u
+0
+7
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1V2_Plated_1.75u_90deg
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Plated Keycap 1.75u 90deg
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout Keycap 1.75u 90deg
+0
+7
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1V2_Plated_2.00u
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Plated Keycap 2.00u
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout Keycap 2.00u
+0
+7
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1V2_Plated_2.00u_90deg
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Plated Keycap 2.00u 90deg
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout Keycap 2.00u 90deg
+0
+7
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1V2_Plated_2.25u
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Plated Keycap 2.25u
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout Keycap 2.25u
+0
+7
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1V2_Plated_2.25u_90deg
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Plated Keycap 2.25u 90deg
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout Keycap 2.25u 90deg
+0
+7
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1V2_Plated_2.50u
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Plated Keycap 2.50u
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout Keycap 2.50u
+0
+7
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1V2_Plated_2.50u_90deg
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Plated Keycap 2.50u 90deg
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout Keycap 2.50u 90deg
+0
+7
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1V2_Plated_2.75u
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Plated Keycap 2.75u
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout Keycap 2.75u
+0
+7
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1V2_Plated_2.75u_90deg
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Plated Keycap 2.75u 90deg
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout Keycap 2.75u 90deg
+0
+7
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1V2_Plated_3.00u
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Plated Keycap 3.00u
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout Keycap 3.00u
+0
+7
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1V2_Plated_3.00u_90deg
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Plated Keycap 3.00u 90deg
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout Keycap 3.00u 90deg
+0
+7
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1V2_Plated_4.00u
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Plated Keycap 4.00u
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout Keycap 4.00u
+0
+7
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1V2_Plated_4.50u
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Plated Keycap 4.50u
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout Keycap 4.50u
+0
+7
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1V2_Plated_5.50u
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Plated Keycap 5.50u
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout Keycap 5.50u
+0
+7
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1V2_Plated_6.00u
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Plated Keycap 6.00u
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout Keycap 6.00u
+0
+7
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1V2_Plated_6.00u_Offset
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Plated Keycap 6.00u Offset
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout Keycap 6.00u Offset
+0
+7
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1V2_Plated_6.25u
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Plated Keycap 6.25u
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout Keycap 6.25u
+0
+7
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1V2_Plated_6.50u
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Plated Keycap 6.50u
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout Keycap 6.50u
+0
+7
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1V2_Plated_7.00u
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Plated Keycap 7.00u
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout Keycap 7.00u
+0
+7
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1V2_Plated_ISOEnter
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Plated Keycap ISOEnter
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout Keycap ISOEnter
+0
+7
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1V2_Plated_ISOEnter_90deg
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Plated Keycap ISOEnter 90deg
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout Keycap ISOEnter 90deg
+0
+7
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1V2_Plated_ISOEnter_180deg
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Plated Keycap ISOEnter 180deg
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout Keycap ISOEnter 180deg
+0
+7
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1V2_Plated_ISOEnter_270deg
+Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Plated Keycap ISOEnter 270deg
+Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout Keycap ISOEnter 270deg
+0
+7
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1_1.00u
+Choc keyswitch V1 CPG1350 V1 Hotswap Keycap 1.00u
+Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout Keycap 1.00u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1_1.25u
+Choc keyswitch V1 CPG1350 V1 Hotswap Keycap 1.25u
+Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout Keycap 1.25u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1_1.25u_90deg
+Choc keyswitch V1 CPG1350 V1 Hotswap Keycap 1.25u 90deg
+Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout Keycap 1.25u 90deg
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1_1.50u
+Choc keyswitch V1 CPG1350 V1 Hotswap Keycap 1.50u
+Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout Keycap 1.50u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1_1.50u_90deg
+Choc keyswitch V1 CPG1350 V1 Hotswap Keycap 1.50u 90deg
+Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout Keycap 1.50u 90deg
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1_1.75u
+Choc keyswitch V1 CPG1350 V1 Hotswap Keycap 1.75u
+Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout Keycap 1.75u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1_1.75u_90deg
+Choc keyswitch V1 CPG1350 V1 Hotswap Keycap 1.75u 90deg
+Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout Keycap 1.75u 90deg
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1_2.00u
+Choc keyswitch V1 CPG1350 V1 Hotswap Keycap 2.00u
+Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout Keycap 2.00u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1_2.00u_90deg
+Choc keyswitch V1 CPG1350 V1 Hotswap Keycap 2.00u 90deg
+Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout Keycap 2.00u 90deg
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1_2.25u
+Choc keyswitch V1 CPG1350 V1 Hotswap Keycap 2.25u
+Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout Keycap 2.25u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1_2.25u_90deg
+Choc keyswitch V1 CPG1350 V1 Hotswap Keycap 2.25u 90deg
+Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout Keycap 2.25u 90deg
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1_2.50u
+Choc keyswitch V1 CPG1350 V1 Hotswap Keycap 2.50u
+Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout Keycap 2.50u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1_2.50u_90deg
+Choc keyswitch V1 CPG1350 V1 Hotswap Keycap 2.50u 90deg
+Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout Keycap 2.50u 90deg
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1_2.75u
+Choc keyswitch V1 CPG1350 V1 Hotswap Keycap 2.75u
+Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout Keycap 2.75u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1_2.75u_90deg
+Choc keyswitch V1 CPG1350 V1 Hotswap Keycap 2.75u 90deg
+Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout Keycap 2.75u 90deg
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1_3.00u
+Choc keyswitch V1 CPG1350 V1 Hotswap Keycap 3.00u
+Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout Keycap 3.00u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1_3.00u_90deg
+Choc keyswitch V1 CPG1350 V1 Hotswap Keycap 3.00u 90deg
+Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout Keycap 3.00u 90deg
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1_4.00u
+Choc keyswitch V1 CPG1350 V1 Hotswap Keycap 4.00u
+Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout Keycap 4.00u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1_4.50u
+Choc keyswitch V1 CPG1350 V1 Hotswap Keycap 4.50u
+Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout Keycap 4.50u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1_5.50u
+Choc keyswitch V1 CPG1350 V1 Hotswap Keycap 5.50u
+Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout Keycap 5.50u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1_6.00u
+Choc keyswitch V1 CPG1350 V1 Hotswap Keycap 6.00u
+Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout Keycap 6.00u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1_6.00u_Offset
+Choc keyswitch V1 CPG1350 V1 Hotswap Keycap 6.00u Offset
+Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout Keycap 6.00u Offset
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1_6.25u
+Choc keyswitch V1 CPG1350 V1 Hotswap Keycap 6.25u
+Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout Keycap 6.25u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1_6.50u
+Choc keyswitch V1 CPG1350 V1 Hotswap Keycap 6.50u
+Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout Keycap 6.50u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1_7.00u
+Choc keyswitch V1 CPG1350 V1 Hotswap Keycap 7.00u
+Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout Keycap 7.00u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1_ISOEnter
+Choc keyswitch V1 CPG1350 V1 Hotswap Keycap ISOEnter
+Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout Keycap ISOEnter
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1_ISOEnter_90deg
+Choc keyswitch V1 CPG1350 V1 Hotswap Keycap ISOEnter 90deg
+Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout Keycap ISOEnter 90deg
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1_ISOEnter_180deg
+Choc keyswitch V1 CPG1350 V1 Hotswap Keycap ISOEnter 180deg
+Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout Keycap ISOEnter 180deg
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1_ISOEnter_270deg
+Choc keyswitch V1 CPG1350 V1 Hotswap Keycap ISOEnter 270deg
+Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout Keycap ISOEnter 270deg
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1_Plated
+Choc keyswitch V1 CPG1350 V1 Hotswap Plated
+Choc Keyswitch Switch CPG1350 V1 Hotswap Plated Cutout
+0
+6
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1_Plated_1.00u
+Choc keyswitch V1 CPG1350 V1 Hotswap Plated Keycap 1.00u
+Choc Keyswitch Switch CPG1350 V1 Hotswap Plated Cutout Keycap 1.00u
+0
+6
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1_Plated_1.25u
+Choc keyswitch V1 CPG1350 V1 Hotswap Plated Keycap 1.25u
+Choc Keyswitch Switch CPG1350 V1 Hotswap Plated Cutout Keycap 1.25u
+0
+6
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1_Plated_1.25u_90deg
+Choc keyswitch V1 CPG1350 V1 Hotswap Plated Keycap 1.25u 90deg
+Choc Keyswitch Switch CPG1350 V1 Hotswap Plated Cutout Keycap 1.25u 90deg
+0
+6
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1_Plated_1.50u
+Choc keyswitch V1 CPG1350 V1 Hotswap Plated Keycap 1.50u
+Choc Keyswitch Switch CPG1350 V1 Hotswap Plated Cutout Keycap 1.50u
+0
+6
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1_Plated_1.50u_90deg
+Choc keyswitch V1 CPG1350 V1 Hotswap Plated Keycap 1.50u 90deg
+Choc Keyswitch Switch CPG1350 V1 Hotswap Plated Cutout Keycap 1.50u 90deg
+0
+6
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1_Plated_1.75u
+Choc keyswitch V1 CPG1350 V1 Hotswap Plated Keycap 1.75u
+Choc Keyswitch Switch CPG1350 V1 Hotswap Plated Cutout Keycap 1.75u
+0
+6
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1_Plated_1.75u_90deg
+Choc keyswitch V1 CPG1350 V1 Hotswap Plated Keycap 1.75u 90deg
+Choc Keyswitch Switch CPG1350 V1 Hotswap Plated Cutout Keycap 1.75u 90deg
+0
+6
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1_Plated_2.00u
+Choc keyswitch V1 CPG1350 V1 Hotswap Plated Keycap 2.00u
+Choc Keyswitch Switch CPG1350 V1 Hotswap Plated Cutout Keycap 2.00u
+0
+6
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1_Plated_2.00u_90deg
+Choc keyswitch V1 CPG1350 V1 Hotswap Plated Keycap 2.00u 90deg
+Choc Keyswitch Switch CPG1350 V1 Hotswap Plated Cutout Keycap 2.00u 90deg
+0
+6
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1_Plated_2.25u
+Choc keyswitch V1 CPG1350 V1 Hotswap Plated Keycap 2.25u
+Choc Keyswitch Switch CPG1350 V1 Hotswap Plated Cutout Keycap 2.25u
+0
+6
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1_Plated_2.25u_90deg
+Choc keyswitch V1 CPG1350 V1 Hotswap Plated Keycap 2.25u 90deg
+Choc Keyswitch Switch CPG1350 V1 Hotswap Plated Cutout Keycap 2.25u 90deg
+0
+6
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1_Plated_2.50u
+Choc keyswitch V1 CPG1350 V1 Hotswap Plated Keycap 2.50u
+Choc Keyswitch Switch CPG1350 V1 Hotswap Plated Cutout Keycap 2.50u
+0
+6
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1_Plated_2.50u_90deg
+Choc keyswitch V1 CPG1350 V1 Hotswap Plated Keycap 2.50u 90deg
+Choc Keyswitch Switch CPG1350 V1 Hotswap Plated Cutout Keycap 2.50u 90deg
+0
+6
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1_Plated_2.75u
+Choc keyswitch V1 CPG1350 V1 Hotswap Plated Keycap 2.75u
+Choc Keyswitch Switch CPG1350 V1 Hotswap Plated Cutout Keycap 2.75u
+0
+6
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1_Plated_2.75u_90deg
+Choc keyswitch V1 CPG1350 V1 Hotswap Plated Keycap 2.75u 90deg
+Choc Keyswitch Switch CPG1350 V1 Hotswap Plated Cutout Keycap 2.75u 90deg
+0
+6
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1_Plated_3.00u
+Choc keyswitch V1 CPG1350 V1 Hotswap Plated Keycap 3.00u
+Choc Keyswitch Switch CPG1350 V1 Hotswap Plated Cutout Keycap 3.00u
+0
+6
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1_Plated_3.00u_90deg
+Choc keyswitch V1 CPG1350 V1 Hotswap Plated Keycap 3.00u 90deg
+Choc Keyswitch Switch CPG1350 V1 Hotswap Plated Cutout Keycap 3.00u 90deg
+0
+6
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1_Plated_4.00u
+Choc keyswitch V1 CPG1350 V1 Hotswap Plated Keycap 4.00u
+Choc Keyswitch Switch CPG1350 V1 Hotswap Plated Cutout Keycap 4.00u
+0
+6
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1_Plated_4.50u
+Choc keyswitch V1 CPG1350 V1 Hotswap Plated Keycap 4.50u
+Choc Keyswitch Switch CPG1350 V1 Hotswap Plated Cutout Keycap 4.50u
+0
+6
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1_Plated_5.50u
+Choc keyswitch V1 CPG1350 V1 Hotswap Plated Keycap 5.50u
+Choc Keyswitch Switch CPG1350 V1 Hotswap Plated Cutout Keycap 5.50u
+0
+6
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1_Plated_6.00u
+Choc keyswitch V1 CPG1350 V1 Hotswap Plated Keycap 6.00u
+Choc Keyswitch Switch CPG1350 V1 Hotswap Plated Cutout Keycap 6.00u
+0
+6
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1_Plated_6.00u_Offset
+Choc keyswitch V1 CPG1350 V1 Hotswap Plated Keycap 6.00u Offset
+Choc Keyswitch Switch CPG1350 V1 Hotswap Plated Cutout Keycap 6.00u Offset
+0
+6
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1_Plated_6.25u
+Choc keyswitch V1 CPG1350 V1 Hotswap Plated Keycap 6.25u
+Choc Keyswitch Switch CPG1350 V1 Hotswap Plated Cutout Keycap 6.25u
+0
+6
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1_Plated_6.50u
+Choc keyswitch V1 CPG1350 V1 Hotswap Plated Keycap 6.50u
+Choc Keyswitch Switch CPG1350 V1 Hotswap Plated Cutout Keycap 6.50u
+0
+6
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1_Plated_7.00u
+Choc keyswitch V1 CPG1350 V1 Hotswap Plated Keycap 7.00u
+Choc Keyswitch Switch CPG1350 V1 Hotswap Plated Cutout Keycap 7.00u
+0
+6
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1_Plated_ISOEnter
+Choc keyswitch V1 CPG1350 V1 Hotswap Plated Keycap ISOEnter
+Choc Keyswitch Switch CPG1350 V1 Hotswap Plated Cutout Keycap ISOEnter
+0
+6
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1_Plated_ISOEnter_90deg
+Choc keyswitch V1 CPG1350 V1 Hotswap Plated Keycap ISOEnter 90deg
+Choc Keyswitch Switch CPG1350 V1 Hotswap Plated Cutout Keycap ISOEnter 90deg
+0
+6
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1_Plated_ISOEnter_180deg
+Choc keyswitch V1 CPG1350 V1 Hotswap Plated Keycap ISOEnter 180deg
+Choc Keyswitch Switch CPG1350 V1 Hotswap Plated Cutout Keycap ISOEnter 180deg
+0
+6
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1_Plated_ISOEnter_270deg
+Choc keyswitch V1 CPG1350 V1 Hotswap Plated Keycap ISOEnter 270deg
+Choc Keyswitch Switch CPG1350 V1 Hotswap Plated Cutout Keycap ISOEnter 270deg
+0
+6
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V2
+Choc keyswitch V2 CPG1353 V2 Hotswap
+Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V2_1.00u
+Choc keyswitch V2 CPG1353 V2 Hotswap Keycap 1.00u
+Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap 1.00u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V2_1.25u
+Choc keyswitch V2 CPG1353 V2 Hotswap Keycap 1.25u
+Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap 1.25u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V2_1.25u_90deg
+Choc keyswitch V2 CPG1353 V2 Hotswap Keycap 1.25u 90deg
+Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap 1.25u 90deg
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V2_1.50u
+Choc keyswitch V2 CPG1353 V2 Hotswap Keycap 1.50u
+Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap 1.50u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V2_1.50u_90deg
+Choc keyswitch V2 CPG1353 V2 Hotswap Keycap 1.50u 90deg
+Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap 1.50u 90deg
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V2_1.75u
+Choc keyswitch V2 CPG1353 V2 Hotswap Keycap 1.75u
+Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap 1.75u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V2_1.75u_90deg
+Choc keyswitch V2 CPG1353 V2 Hotswap Keycap 1.75u 90deg
+Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap 1.75u 90deg
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V2_2.00u
+Choc keyswitch V2 CPG1353 V2 Hotswap Keycap 2.00u
+Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap 2.00u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V2_2.00u_90deg
+Choc keyswitch V2 CPG1353 V2 Hotswap Keycap 2.00u 90deg
+Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap 2.00u 90deg
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V2_2.25u
+Choc keyswitch V2 CPG1353 V2 Hotswap Keycap 2.25u
+Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap 2.25u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V2_2.25u_90deg
+Choc keyswitch V2 CPG1353 V2 Hotswap Keycap 2.25u 90deg
+Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap 2.25u 90deg
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V2_2.50u
+Choc keyswitch V2 CPG1353 V2 Hotswap Keycap 2.50u
+Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap 2.50u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V2_2.50u_90deg
+Choc keyswitch V2 CPG1353 V2 Hotswap Keycap 2.50u 90deg
+Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap 2.50u 90deg
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V2_2.75u
+Choc keyswitch V2 CPG1353 V2 Hotswap Keycap 2.75u
+Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap 2.75u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V2_2.75u_90deg
+Choc keyswitch V2 CPG1353 V2 Hotswap Keycap 2.75u 90deg
+Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap 2.75u 90deg
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V2_3.00u
+Choc keyswitch V2 CPG1353 V2 Hotswap Keycap 3.00u
+Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap 3.00u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V2_3.00u_90deg
+Choc keyswitch V2 CPG1353 V2 Hotswap Keycap 3.00u 90deg
+Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap 3.00u 90deg
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V2_4.00u
+Choc keyswitch V2 CPG1353 V2 Hotswap Keycap 4.00u
+Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap 4.00u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V2_4.50u
+Choc keyswitch V2 CPG1353 V2 Hotswap Keycap 4.50u
+Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap 4.50u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V2_5.50u
+Choc keyswitch V2 CPG1353 V2 Hotswap Keycap 5.50u
+Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap 5.50u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V2_6.00u
+Choc keyswitch V2 CPG1353 V2 Hotswap Keycap 6.00u
+Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap 6.00u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V2_6.00u_Offset
+Choc keyswitch V2 CPG1353 V2 Hotswap Keycap 6.00u Offset
+Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap 6.00u Offset
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V2_6.25u
+Choc keyswitch V2 CPG1353 V2 Hotswap Keycap 6.25u
+Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap 6.25u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V2_6.50u
+Choc keyswitch V2 CPG1353 V2 Hotswap Keycap 6.50u
+Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap 6.50u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V2_7.00u
+Choc keyswitch V2 CPG1353 V2 Hotswap Keycap 7.00u
+Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap 7.00u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V2_ISOEnter
+Choc keyswitch V2 CPG1353 V2 Hotswap Keycap ISOEnter
+Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap ISOEnter
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V2_ISOEnter_90deg
+Choc keyswitch V2 CPG1353 V2 Hotswap Keycap ISOEnter 90deg
+Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap ISOEnter 90deg
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V2_ISOEnter_180deg
+Choc keyswitch V2 CPG1353 V2 Hotswap Keycap ISOEnter 180deg
+Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap ISOEnter 180deg
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V2_ISOEnter_270deg
+Choc keyswitch V2 CPG1353 V2 Hotswap Keycap ISOEnter 270deg
+Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap ISOEnter 270deg
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V2_Plated
+Choc keyswitch V2 CPG1353 V2 Hotswap Plated
+Choc Keyswitch Switch CPG1353 V2 Hotswap Plated Cutout
+0
+7
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V2_Plated_1.00u
+Choc keyswitch V2 CPG1353 V2 Hotswap Plated Keycap 1.00u
+Choc Keyswitch Switch CPG1353 V2 Hotswap Plated Cutout Keycap 1.00u
+0
+7
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V2_Plated_1.25u
+Choc keyswitch V2 CPG1353 V2 Hotswap Plated Keycap 1.25u
+Choc Keyswitch Switch CPG1353 V2 Hotswap Plated Cutout Keycap 1.25u
+0
+7
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V2_Plated_1.25u_90deg
+Choc keyswitch V2 CPG1353 V2 Hotswap Plated Keycap 1.25u 90deg
+Choc Keyswitch Switch CPG1353 V2 Hotswap Plated Cutout Keycap 1.25u 90deg
+0
+7
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V2_Plated_1.50u
+Choc keyswitch V2 CPG1353 V2 Hotswap Plated Keycap 1.50u
+Choc Keyswitch Switch CPG1353 V2 Hotswap Plated Cutout Keycap 1.50u
+0
+7
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V2_Plated_1.50u_90deg
+Choc keyswitch V2 CPG1353 V2 Hotswap Plated Keycap 1.50u 90deg
+Choc Keyswitch Switch CPG1353 V2 Hotswap Plated Cutout Keycap 1.50u 90deg
+0
+7
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V2_Plated_1.75u
+Choc keyswitch V2 CPG1353 V2 Hotswap Plated Keycap 1.75u
+Choc Keyswitch Switch CPG1353 V2 Hotswap Plated Cutout Keycap 1.75u
+0
+7
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V2_Plated_1.75u_90deg
+Choc keyswitch V2 CPG1353 V2 Hotswap Plated Keycap 1.75u 90deg
+Choc Keyswitch Switch CPG1353 V2 Hotswap Plated Cutout Keycap 1.75u 90deg
+0
+7
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V2_Plated_2.00u
+Choc keyswitch V2 CPG1353 V2 Hotswap Plated Keycap 2.00u
+Choc Keyswitch Switch CPG1353 V2 Hotswap Plated Cutout Keycap 2.00u
+0
+7
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V2_Plated_2.00u_90deg
+Choc keyswitch V2 CPG1353 V2 Hotswap Plated Keycap 2.00u 90deg
+Choc Keyswitch Switch CPG1353 V2 Hotswap Plated Cutout Keycap 2.00u 90deg
+0
+7
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V2_Plated_2.25u
+Choc keyswitch V2 CPG1353 V2 Hotswap Plated Keycap 2.25u
+Choc Keyswitch Switch CPG1353 V2 Hotswap Plated Cutout Keycap 2.25u
+0
+7
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V2_Plated_2.25u_90deg
+Choc keyswitch V2 CPG1353 V2 Hotswap Plated Keycap 2.25u 90deg
+Choc Keyswitch Switch CPG1353 V2 Hotswap Plated Cutout Keycap 2.25u 90deg
+0
+7
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V2_Plated_2.50u
+Choc keyswitch V2 CPG1353 V2 Hotswap Plated Keycap 2.50u
+Choc Keyswitch Switch CPG1353 V2 Hotswap Plated Cutout Keycap 2.50u
+0
+7
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V2_Plated_2.50u_90deg
+Choc keyswitch V2 CPG1353 V2 Hotswap Plated Keycap 2.50u 90deg
+Choc Keyswitch Switch CPG1353 V2 Hotswap Plated Cutout Keycap 2.50u 90deg
+0
+7
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V2_Plated_2.75u
+Choc keyswitch V2 CPG1353 V2 Hotswap Plated Keycap 2.75u
+Choc Keyswitch Switch CPG1353 V2 Hotswap Plated Cutout Keycap 2.75u
+0
+7
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V2_Plated_2.75u_90deg
+Choc keyswitch V2 CPG1353 V2 Hotswap Plated Keycap 2.75u 90deg
+Choc Keyswitch Switch CPG1353 V2 Hotswap Plated Cutout Keycap 2.75u 90deg
+0
+7
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V2_Plated_3.00u
+Choc keyswitch V2 CPG1353 V2 Hotswap Plated Keycap 3.00u
+Choc Keyswitch Switch CPG1353 V2 Hotswap Plated Cutout Keycap 3.00u
+0
+7
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V2_Plated_3.00u_90deg
+Choc keyswitch V2 CPG1353 V2 Hotswap Plated Keycap 3.00u 90deg
+Choc Keyswitch Switch CPG1353 V2 Hotswap Plated Cutout Keycap 3.00u 90deg
+0
+7
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V2_Plated_4.00u
+Choc keyswitch V2 CPG1353 V2 Hotswap Plated Keycap 4.00u
+Choc Keyswitch Switch CPG1353 V2 Hotswap Plated Cutout Keycap 4.00u
+0
+7
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V2_Plated_4.50u
+Choc keyswitch V2 CPG1353 V2 Hotswap Plated Keycap 4.50u
+Choc Keyswitch Switch CPG1353 V2 Hotswap Plated Cutout Keycap 4.50u
+0
+7
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V2_Plated_5.50u
+Choc keyswitch V2 CPG1353 V2 Hotswap Plated Keycap 5.50u
+Choc Keyswitch Switch CPG1353 V2 Hotswap Plated Cutout Keycap 5.50u
+0
+7
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V2_Plated_6.00u
+Choc keyswitch V2 CPG1353 V2 Hotswap Plated Keycap 6.00u
+Choc Keyswitch Switch CPG1353 V2 Hotswap Plated Cutout Keycap 6.00u
+0
+7
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V2_Plated_6.00u_Offset
+Choc keyswitch V2 CPG1353 V2 Hotswap Plated Keycap 6.00u Offset
+Choc Keyswitch Switch CPG1353 V2 Hotswap Plated Cutout Keycap 6.00u Offset
+0
+7
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V2_Plated_6.25u
+Choc keyswitch V2 CPG1353 V2 Hotswap Plated Keycap 6.25u
+Choc Keyswitch Switch CPG1353 V2 Hotswap Plated Cutout Keycap 6.25u
+0
+7
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V2_Plated_6.50u
+Choc keyswitch V2 CPG1353 V2 Hotswap Plated Keycap 6.50u
+Choc Keyswitch Switch CPG1353 V2 Hotswap Plated Cutout Keycap 6.50u
+0
+7
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V2_Plated_7.00u
+Choc keyswitch V2 CPG1353 V2 Hotswap Plated Keycap 7.00u
+Choc Keyswitch Switch CPG1353 V2 Hotswap Plated Cutout Keycap 7.00u
+0
+7
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V2_Plated_ISOEnter
+Choc keyswitch V2 CPG1353 V2 Hotswap Plated Keycap ISOEnter
+Choc Keyswitch Switch CPG1353 V2 Hotswap Plated Cutout Keycap ISOEnter
+0
+7
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V2_Plated_ISOEnter_90deg
+Choc keyswitch V2 CPG1353 V2 Hotswap Plated Keycap ISOEnter 90deg
+Choc Keyswitch Switch CPG1353 V2 Hotswap Plated Cutout Keycap ISOEnter 90deg
+0
+7
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V2_Plated_ISOEnter_180deg
+Choc keyswitch V2 CPG1353 V2 Hotswap Plated Keycap ISOEnter 180deg
+Choc Keyswitch Switch CPG1353 V2 Hotswap Plated Cutout Keycap ISOEnter 180deg
+0
+7
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V2_Plated_ISOEnter_270deg
+Choc keyswitch V2 CPG1353 V2 Hotswap Plated Keycap ISOEnter 270deg
+Choc Keyswitch Switch CPG1353 V2 Hotswap Plated Cutout Keycap ISOEnter 270deg
+0
+7
+2
+ScottoKeebs_Hotswap
+Hotswap_MX
+keyswitch Hotswap Socket
+Keyboard Keyswitch Switch Hotswap Socket Relief Cutout
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_MX_1.00u
+keyswitch Hotswap Socket Keycap 1.00u
+Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_MX_1.25u
+keyswitch Hotswap Socket Keycap 1.25u
+Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.25u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_MX_1.25u_90deg
+keyswitch Hotswap Socket Keycap 1.25u 90deg
+Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.25u 90deg
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_MX_1.50u
+keyswitch Hotswap Socket Keycap 1.50u
+Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.50u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_MX_1.50u_90deg
+keyswitch Hotswap Socket Keycap 1.50u 90deg
+Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.50u 90deg
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_MX_1.75u
+keyswitch Hotswap Socket Keycap 1.75u
+Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.75u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_MX_1.75u_90deg
+keyswitch Hotswap Socket Keycap 1.75u 90deg
+Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.75u 90deg
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_MX_2.00u
+keyswitch Hotswap Socket Keycap 2.00u
+Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 2.00u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_MX_2.00u_90deg
+keyswitch Hotswap Socket Keycap 2.00u 90deg
+Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 2.00u 90deg
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_MX_2.25u
+keyswitch Hotswap Socket Keycap 2.25u
+Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 2.25u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_MX_2.25u_90deg
+keyswitch Hotswap Socket Keycap 2.25u 90deg
+Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 2.25u 90deg
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_MX_2.50u
+keyswitch Hotswap Socket Keycap 2.50u
+Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 2.50u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_MX_2.50u_90deg
+keyswitch Hotswap Socket Keycap 2.50u 90deg
+Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 2.50u 90deg
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_MX_2.75u
+keyswitch Hotswap Socket Keycap 2.75u
+Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 2.75u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_MX_2.75u_90deg
+keyswitch Hotswap Socket Keycap 2.75u 90deg
+Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 2.75u 90deg
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_MX_3.00u
+keyswitch Hotswap Socket Keycap 3.00u
+Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 3.00u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_MX_3.00u_90deg
+keyswitch Hotswap Socket Keycap 3.00u 90deg
+Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 3.00u 90deg
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_MX_4.00u
+keyswitch Hotswap Socket Keycap 4.00u
+Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 4.00u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_MX_4.50u
+keyswitch Hotswap Socket Keycap 4.50u
+Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 4.50u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_MX_5.50u
+keyswitch Hotswap Socket Keycap 5.50u
+Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 5.50u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_MX_6.00u
+keyswitch Hotswap Socket Keycap 6.00u
+Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 6.00u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_MX_6.00u_Offset
+keyswitch Hotswap Socket Keycap 6.00u Offset
+Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 6.00u Offset
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_MX_6.25u
+keyswitch Hotswap Socket Keycap 6.25u
+Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 6.25u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_MX_6.50u
+keyswitch Hotswap Socket Keycap 6.50u
+Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 6.50u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_MX_7.00u
+keyswitch Hotswap Socket Keycap 7.00u
+Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 7.00u
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_MX_ISOEnter
+keyswitch Hotswap Socket Keycap ISOEnter
+Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap ISOEnter
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_MX_ISOEnter_90deg
+keyswitch Hotswap Socket Keycap ISOEnter 90deg
+Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap ISOEnter 90deg
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_MX_ISOEnter_180deg
+keyswitch Hotswap Socket Keycap ISOEnter 180deg
+Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap ISOEnter 180deg
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_MX_ISOEnter_270deg
+keyswitch Hotswap Socket Keycap ISOEnter 270deg
+Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap ISOEnter 270deg
+0
+2
+2
+ScottoKeebs_Hotswap
+Hotswap_MX_Plated
+keyswitch Hotswap Socket plated holes
+Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout
+0
+6
+2
+ScottoKeebs_Hotswap
+Hotswap_MX_Plated_1.00u
+keyswitch Hotswap Socket plated holes Keycap 1.00u
+Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 1.00u
+0
+6
+2
+ScottoKeebs_Hotswap
+Hotswap_MX_Plated_1.25u
+keyswitch Hotswap Socket plated holes Keycap 1.25u
+Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 1.25u
+0
+6
+2
+ScottoKeebs_Hotswap
+Hotswap_MX_Plated_1.25u_90deg
+keyswitch Hotswap Socket plated holes Keycap 1.25u 90deg
+Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 1.25u 90deg
+0
+6
+2
+ScottoKeebs_Hotswap
+Hotswap_MX_Plated_1.50u
+keyswitch Hotswap Socket plated holes Keycap 1.50u
+Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 1.50u
+0
+6
+2
+ScottoKeebs_Hotswap
+Hotswap_MX_Plated_1.50u_90deg
+keyswitch Hotswap Socket plated holes Keycap 1.50u 90deg
+Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 1.50u 90deg
+0
+6
+2
+ScottoKeebs_Hotswap
+Hotswap_MX_Plated_1.75u
+keyswitch Hotswap Socket plated holes Keycap 1.75u
+Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 1.75u
+0
+6
+2
+ScottoKeebs_Hotswap
+Hotswap_MX_Plated_1.75u_90deg
+keyswitch Hotswap Socket plated holes Keycap 1.75u 90deg
+Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 1.75u 90deg
+0
+6
+2
+ScottoKeebs_Hotswap
+Hotswap_MX_Plated_2.00u
+keyswitch Hotswap Socket plated holes Keycap 2.00u
+Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 2.00u
+0
+6
+2
+ScottoKeebs_Hotswap
+Hotswap_MX_Plated_2.00u_90deg
+keyswitch Hotswap Socket plated holes Keycap 2.00u 90deg
+Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 2.00u 90deg
+0
+6
+2
+ScottoKeebs_Hotswap
+Hotswap_MX_Plated_2.25u
+keyswitch Hotswap Socket plated holes Keycap 2.25u
+Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 2.25u
+0
+6
+2
+ScottoKeebs_Hotswap
+Hotswap_MX_Plated_2.25u_90deg
+keyswitch Hotswap Socket plated holes Keycap 2.25u 90deg
+Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 2.25u 90deg
+0
+6
+2
+ScottoKeebs_Hotswap
+Hotswap_MX_Plated_2.50u
+keyswitch Hotswap Socket plated holes Keycap 2.50u
+Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 2.50u
+0
+6
+2
+ScottoKeebs_Hotswap
+Hotswap_MX_Plated_2.50u_90deg
+keyswitch Hotswap Socket plated holes Keycap 2.50u 90deg
+Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 2.50u 90deg
+0
+6
+2
+ScottoKeebs_Hotswap
+Hotswap_MX_Plated_2.75u
+keyswitch Hotswap Socket plated holes Keycap 2.75u
+Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 2.75u
+0
+6
+2
+ScottoKeebs_Hotswap
+Hotswap_MX_Plated_2.75u_90deg
+keyswitch Hotswap Socket plated holes Keycap 2.75u 90deg
+Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 2.75u 90deg
+0
+6
+2
+ScottoKeebs_Hotswap
+Hotswap_MX_Plated_3.00u
+keyswitch Hotswap Socket plated holes Keycap 3.00u
+Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 3.00u
+0
+6
+2
+ScottoKeebs_Hotswap
+Hotswap_MX_Plated_3.00u_90deg
+keyswitch Hotswap Socket plated holes Keycap 3.00u 90deg
+Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 3.00u 90deg
+0
+6
+2
+ScottoKeebs_Hotswap
+Hotswap_MX_Plated_4.00u
+keyswitch Hotswap Socket plated holes Keycap 4.00u
+Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 4.00u
+0
+6
+2
+ScottoKeebs_Hotswap
+Hotswap_MX_Plated_4.50u
+keyswitch Hotswap Socket plated holes Keycap 4.50u
+Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 4.50u
+0
+6
+2
+ScottoKeebs_Hotswap
+Hotswap_MX_Plated_5.50u
+keyswitch Hotswap Socket plated holes Keycap 5.50u
+Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 5.50u
+0
+6
+2
+ScottoKeebs_Hotswap
+Hotswap_MX_Plated_6.00u
+keyswitch Hotswap Socket plated holes Keycap 6.00u
+Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 6.00u
+0
+6
+2
+ScottoKeebs_Hotswap
+Hotswap_MX_Plated_6.00u_Offset
+keyswitch Hotswap Socket plated holes Keycap 6.00u Offset
+Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 6.00u Offset
+0
+6
+2
+ScottoKeebs_Hotswap
+Hotswap_MX_Plated_6.25u
+keyswitch Hotswap Socket plated holes Keycap 6.25u
+Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 6.25u
+0
+6
+2
+ScottoKeebs_Hotswap
+Hotswap_MX_Plated_6.50u
+keyswitch Hotswap Socket plated holes Keycap 6.50u
+Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 6.50u
+0
+6
+2
+ScottoKeebs_Hotswap
+Hotswap_MX_Plated_7.00u
+keyswitch Hotswap Socket plated holes Keycap 7.00u
+Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 7.00u
+0
+6
+2
+ScottoKeebs_Hotswap
+Hotswap_MX_Plated_ISOEnter
+keyswitch Hotswap Socket plated holes Keycap ISOEnter
+Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap ISOEnter
+0
+6
+2
+ScottoKeebs_Hotswap
+Hotswap_MX_Plated_ISOEnter_90deg
+keyswitch Hotswap Socket plated holes Keycap ISOEnter 90deg
+Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap ISOEnter 90deg
+0
+6
+2
+ScottoKeebs_Hotswap
+Hotswap_MX_Plated_ISOEnter_180deg
+keyswitch Hotswap Socket plated holes Keycap ISOEnter 180deg
+Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap ISOEnter 180deg
+0
+6
+2
+ScottoKeebs_Hotswap
+Hotswap_MX_Plated_ISOEnter_270deg
+keyswitch Hotswap Socket plated holes Keycap ISOEnter 270deg
+Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap ISOEnter 270deg
+0
+6
+2
+ScottoKeebs_Hybrid
+Hybrid_MX_Alps
+MX / Alps keyswitch hybrid
+MX Alps Hybrid Keyboard Keyswitch Switch PCB
+0
+3
+2
+ScottoKeebs_Hybrid
+Hybrid_MX_Alps_1.00u
+MX / Alps keyswitch hybrid Keycap 1.00u
+MX Alps Hybrid Keyboard Keyswitch Switch PCB Keycap 1.00u
+0
+3
+2
+ScottoKeebs_Hybrid
+Hybrid_MX_Alps_1.25u
+MX / Alps keyswitch hybrid Keycap 1.25u
+MX Alps Hybrid Keyboard Keyswitch Switch PCB Keycap 1.25u
+0
+3
+2
+ScottoKeebs_Hybrid
+Hybrid_MX_Alps_1.50u
+MX / Alps keyswitch hybrid Keycap 1.50u
+MX Alps Hybrid Keyboard Keyswitch Switch PCB Keycap 1.50u
+0
+3
+2
+ScottoKeebs_Hybrid
+Hybrid_MX_Alps_1.75u
+MX / Alps keyswitch hybrid Keycap 1.75u
+MX Alps Hybrid Keyboard Keyswitch Switch PCB Keycap 1.75u
+0
+3
+2
+ScottoKeebs_Hybrid
+Hybrid_MX_Alps_2.00u
+MX / Alps keyswitch hybrid Keycap 2.00u
+MX Alps Hybrid Keyboard Keyswitch Switch PCB Keycap 2.00u
+0
+3
+2
+ScottoKeebs_Hybrid
+Hybrid_MX_Alps_2.25u
+MX / Alps keyswitch hybrid Keycap 2.25u
+MX Alps Hybrid Keyboard Keyswitch Switch PCB Keycap 2.25u
+0
+3
+2
+ScottoKeebs_Hybrid
+Hybrid_MX_Alps_2.50u
+MX / Alps keyswitch hybrid Keycap 2.50u
+MX Alps Hybrid Keyboard Keyswitch Switch PCB Keycap 2.50u
+0
+3
+2
+ScottoKeebs_Hybrid
+Hybrid_MX_Alps_2.75u
+MX / Alps keyswitch hybrid Keycap 2.75u
+MX Alps Hybrid Keyboard Keyswitch Switch PCB Keycap 2.75u
+0
+3
+2
+ScottoKeebs_Hybrid
+Hybrid_MX_Alps_3.00u
+MX / Alps keyswitch hybrid Keycap 3.00u
+MX Alps Hybrid Keyboard Keyswitch Switch PCB Keycap 3.00u
+0
+3
+2
+ScottoKeebs_Hybrid
+Hybrid_MX_Alps_4.00u
+MX / Alps keyswitch hybrid Keycap 4.00u
+MX Alps Hybrid Keyboard Keyswitch Switch PCB Keycap 4.00u
+0
+3
+2
+ScottoKeebs_Hybrid
+Hybrid_MX_Alps_4.50u
+MX / Alps keyswitch hybrid Keycap 4.50u
+MX Alps Hybrid Keyboard Keyswitch Switch PCB Keycap 4.50u
+0
+3
+2
+ScottoKeebs_Hybrid
+Hybrid_MX_Alps_5.50u
+MX / Alps keyswitch hybrid Keycap 5.50u
+MX Alps Hybrid Keyboard Keyswitch Switch PCB Keycap 5.50u
+0
+3
+2
+ScottoKeebs_Hybrid
+Hybrid_MX_Alps_6.00u
+MX / Alps keyswitch hybrid Keycap 6.00u
+MX Alps Hybrid Keyboard Keyswitch Switch PCB Keycap 6.00u
+0
+3
+2
+ScottoKeebs_Hybrid
+Hybrid_MX_Alps_6.25u
+MX / Alps keyswitch hybrid Keycap 6.25u
+MX Alps Hybrid Keyboard Keyswitch Switch PCB Keycap 6.25u
+0
+3
+2
+ScottoKeebs_Hybrid
+Hybrid_MX_Alps_6.50u
+MX / Alps keyswitch hybrid Keycap 6.50u
+MX Alps Hybrid Keyboard Keyswitch Switch PCB Keycap 6.50u
+0
+3
+2
+ScottoKeebs_Hybrid
+Hybrid_MX_Alps_7.00u
+MX / Alps keyswitch hybrid Keycap 7.00u
+MX Alps Hybrid Keyboard Keyswitch Switch PCB Keycap 7.00u
+0
+3
+2
+ScottoKeebs_Hybrid
+Hybrid_MX_Alps_ISOEnter
+MX / Alps keyswitch hybrid Keycap ISOEnter
+MX Alps Hybrid Keyboard Keyswitch Switch PCB Keycap ISOEnter
+0
+3
+2
+ScottoKeebs_KH
+KH
+KH CPG1280 keyswitch
+KH CPG1280 Keyboard Keyswitch Switch Cutout
+0
+2
+2
+ScottoKeebs_KH
+KH_1.00u
+KH CPG1280 keyswitch Keycap 1.00u
+KH CPG1280 Keyboard Keyswitch Switch Cutout Keycap 1.00u
+0
+2
+2
+ScottoKeebs_KH
+KH_1.25u
+KH CPG1280 keyswitch Keycap 1.25u
+KH CPG1280 Keyboard Keyswitch Switch Cutout Keycap 1.25u
+0
+2
+2
+ScottoKeebs_KH
+KH_1.25u_90deg
+KH CPG1280 keyswitch Keycap 1.25u 90deg
+KH CPG1280 Keyboard Keyswitch Switch Cutout Keycap 1.25u 90deg
+0
+2
+2
+ScottoKeebs_KH
+KH_1.50u
+KH CPG1280 keyswitch Keycap 1.50u
+KH CPG1280 Keyboard Keyswitch Switch Cutout Keycap 1.50u
+0
+2
+2
+ScottoKeebs_KH
+KH_1.50u_90deg
+KH CPG1280 keyswitch Keycap 1.50u 90deg
+KH CPG1280 Keyboard Keyswitch Switch Cutout Keycap 1.50u 90deg
+0
+2
+2
+ScottoKeebs_KH
+KH_1.75u
+KH CPG1280 keyswitch Keycap 1.75u
+KH CPG1280 Keyboard Keyswitch Switch Cutout Keycap 1.75u
+0
+2
+2
+ScottoKeebs_KH
+KH_1.75u_90deg
+KH CPG1280 keyswitch Keycap 1.75u 90deg
+KH CPG1280 Keyboard Keyswitch Switch Cutout Keycap 1.75u 90deg
+0
+2
+2
+ScottoKeebs_KH
+KH_2.00u
+KH CPG1280 keyswitch Keycap 2.00u
+KH CPG1280 Keyboard Keyswitch Switch Cutout Keycap 2.00u
+0
+2
+2
+ScottoKeebs_KH
+KH_2.00u_90deg
+KH CPG1280 keyswitch Keycap 2.00u 90deg
+KH CPG1280 Keyboard Keyswitch Switch Cutout Keycap 2.00u 90deg
+0
+2
+2
+ScottoKeebs_KH
+KH_2.25u
+KH CPG1280 keyswitch Keycap 2.25u
+KH CPG1280 Keyboard Keyswitch Switch Cutout Keycap 2.25u
+0
+2
+2
+ScottoKeebs_KH
+KH_2.25u_90deg
+KH CPG1280 keyswitch Keycap 2.25u 90deg
+KH CPG1280 Keyboard Keyswitch Switch Cutout Keycap 2.25u 90deg
+0
+2
+2
+ScottoKeebs_KH
+KH_2.50u
+KH CPG1280 keyswitch Keycap 2.50u
+KH CPG1280 Keyboard Keyswitch Switch Cutout Keycap 2.50u
+0
+2
+2
+ScottoKeebs_KH
+KH_2.50u_90deg
+KH CPG1280 keyswitch Keycap 2.50u 90deg
+KH CPG1280 Keyboard Keyswitch Switch Cutout Keycap 2.50u 90deg
+0
+2
+2
+ScottoKeebs_KH
+KH_2.75u
+KH CPG1280 keyswitch Keycap 2.75u
+KH CPG1280 Keyboard Keyswitch Switch Cutout Keycap 2.75u
+0
+2
+2
+ScottoKeebs_KH
+KH_2.75u_90deg
+KH CPG1280 keyswitch Keycap 2.75u 90deg
+KH CPG1280 Keyboard Keyswitch Switch Cutout Keycap 2.75u 90deg
+0
+2
+2
+ScottoKeebs_KH
+KH_3.00u
+KH CPG1280 keyswitch Keycap 3.00u
+KH CPG1280 Keyboard Keyswitch Switch Cutout Keycap 3.00u
+0
+2
+2
+ScottoKeebs_KH
+KH_3.00u_90deg
+KH CPG1280 keyswitch Keycap 3.00u 90deg
+KH CPG1280 Keyboard Keyswitch Switch Cutout Keycap 3.00u 90deg
+0
+2
+2
+ScottoKeebs_KH
+KH_4.00u
+KH CPG1280 keyswitch Keycap 4.00u
+KH CPG1280 Keyboard Keyswitch Switch Cutout Keycap 4.00u
+0
+2
+2
+ScottoKeebs_KH
+KH_4.50u
+KH CPG1280 keyswitch Keycap 4.50u
+KH CPG1280 Keyboard Keyswitch Switch Cutout Keycap 4.50u
+0
+2
+2
+ScottoKeebs_KH
+KH_5.50u
+KH CPG1280 keyswitch Keycap 5.50u
+KH CPG1280 Keyboard Keyswitch Switch Cutout Keycap 5.50u
+0
+2
+2
+ScottoKeebs_KH
+KH_6.00u
+KH CPG1280 keyswitch Keycap 6.00u
+KH CPG1280 Keyboard Keyswitch Switch Cutout Keycap 6.00u
+0
+2
+2
+ScottoKeebs_KH
+KH_6.00u_Offset
+KH CPG1280 keyswitch Keycap 6.00u Offset
+KH CPG1280 Keyboard Keyswitch Switch Cutout Keycap 6.00u Offset
+0
+2
+2
+ScottoKeebs_KH
+KH_6.25u
+KH CPG1280 keyswitch Keycap 6.25u
+KH CPG1280 Keyboard Keyswitch Switch Cutout Keycap 6.25u
+0
+2
+2
+ScottoKeebs_KH
+KH_6.50u
+KH CPG1280 keyswitch Keycap 6.50u
+KH CPG1280 Keyboard Keyswitch Switch Cutout Keycap 6.50u
+0
+2
+2
+ScottoKeebs_KH
+KH_7.00u
+KH CPG1280 keyswitch Keycap 7.00u
+KH CPG1280 Keyboard Keyswitch Switch Cutout Keycap 7.00u
+0
+2
+2
+ScottoKeebs_KH
+KH_ISOEnter
+KH CPG1280 keyswitch Keycap ISOEnter
+KH CPG1280 Keyboard Keyswitch Switch Cutout Keycap ISOEnter
+0
+2
+2
+ScottoKeebs_KH
+KH_ISOEnter_90deg
+KH CPG1280 keyswitch Keycap ISOEnter 90deg
+KH CPG1280 Keyboard Keyswitch Switch Cutout Keycap ISOEnter 90deg
+0
+2
+2
+ScottoKeebs_KH
+KH_ISOEnter_180deg
+KH CPG1280 keyswitch Keycap ISOEnter 180deg
+KH CPG1280 Keyboard Keyswitch Switch Cutout Keycap ISOEnter 180deg
+0
+2
+2
+ScottoKeebs_KH
+KH_ISOEnter_270deg
+KH CPG1280 keyswitch Keycap ISOEnter 270deg
+KH CPG1280 Keyboard Keyswitch Switch Cutout Keycap ISOEnter 270deg
+0
+2
+2
+ScottoKeebs_MCU
+Arduino_Pro_Micro
+
+
+0
+24
+24
+ScottoKeebs_MCU
+Arduino_Pro_Micro_Flipped
+
+
+0
+24
+24
+ScottoKeebs_MCU
+Nice_Nano_V2
+
+
+0
+27
+27
+ScottoKeebs_MCU
+Nice_Nano_V2_Flipped
+
+
+0
+27
+27
+ScottoKeebs_MCU
+RP2040_Pro_Micro
+
+
+0
+31
+31
+ScottoKeebs_MCU
+RP2040_Pro_Micro_Flipped
+
+
+0
+31
+31
+ScottoKeebs_MCU
+RP2040_Zero
+
+
+0
+23
+23
+ScottoKeebs_MCU
+RP2040_Zero_Flipped
+
+
+0
+23
+23
+ScottoKeebs_MCU
+Raspberry_Pi_Pico
+
+
+0
+86
+43
+ScottoKeebs_MCU
+Raspberry_Pi_Pico_Flipped
+
+
+0
+86
+43
+ScottoKeebs_MX
+MX_PCB
+MX keyswitch PCB Mount
+MX Keyboard Keyswitch Switch PCB Cutout
+0
+2
+2
+ScottoKeebs_MX
+MX_PCB_1.00u
+MX keyswitch PCB Mount Keycap 1.00u
+MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u
+0
+2
+2
+ScottoKeebs_MX
+MX_PCB_1.00u_Reversable
+MX keyswitch PCB Mount Keycap 1.00u
+MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u
+0
+4
+2
+ScottoKeebs_MX
+MX_PCB_1.25u
+MX keyswitch PCB Mount Keycap 1.25u
+MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.25u
+0
+2
+2
+ScottoKeebs_MX
+MX_PCB_1.25u_90deg
+MX keyswitch PCB Mount Keycap 1.25u 90deg
+MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.25u 90deg
+0
+2
+2
+ScottoKeebs_MX
+MX_PCB_1.50u
+MX keyswitch PCB Mount Keycap 1.50u
+MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.50u
+0
+2
+2
+ScottoKeebs_MX
+MX_PCB_1.50u_90deg
+MX keyswitch PCB Mount Keycap 1.50u 90deg
+MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.50u 90deg
+0
+2
+2
+ScottoKeebs_MX
+MX_PCB_1.75u
+MX keyswitch PCB Mount Keycap 1.75u
+MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.75u
+0
+2
+2
+ScottoKeebs_MX
+MX_PCB_1.75u_90deg
+MX keyswitch PCB Mount Keycap 1.75u 90deg
+MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.75u 90deg
+0
+2
+2
+ScottoKeebs_MX
+MX_PCB_2.00u
+MX keyswitch PCB Mount Keycap 2.00u
+MX Keyboard Keyswitch Switch PCB Cutout Keycap 2.00u
+0
+2
+2
+ScottoKeebs_MX
+MX_PCB_2.00u_90deg
+MX keyswitch PCB Mount Keycap 2.00u 90deg
+MX Keyboard Keyswitch Switch PCB Cutout Keycap 2.00u 90deg
+0
+2
+2
+ScottoKeebs_MX
+MX_PCB_2.25u
+MX keyswitch PCB Mount Keycap 2.25u
+MX Keyboard Keyswitch Switch PCB Cutout Keycap 2.25u
+0
+2
+2
+ScottoKeebs_MX
+MX_PCB_2.25u_90deg
+MX keyswitch PCB Mount Keycap 2.25u 90deg
+MX Keyboard Keyswitch Switch PCB Cutout Keycap 2.25u 90deg
+0
+2
+2
+ScottoKeebs_MX
+MX_PCB_2.50u
+MX keyswitch PCB Mount Keycap 2.50u
+MX Keyboard Keyswitch Switch PCB Cutout Keycap 2.50u
+0
+2
+2
+ScottoKeebs_MX
+MX_PCB_2.50u_90deg
+MX keyswitch PCB Mount Keycap 2.50u 90deg
+MX Keyboard Keyswitch Switch PCB Cutout Keycap 2.50u 90deg
+0
+2
+2
+ScottoKeebs_MX
+MX_PCB_2.75u
+MX keyswitch PCB Mount Keycap 2.75u
+MX Keyboard Keyswitch Switch PCB Cutout Keycap 2.75u
+0
+2
+2
+ScottoKeebs_MX
+MX_PCB_2.75u_90deg
+MX keyswitch PCB Mount Keycap 2.75u 90deg
+MX Keyboard Keyswitch Switch PCB Cutout Keycap 2.75u 90deg
+0
+2
+2
+ScottoKeebs_MX
+MX_PCB_3.00u
+MX keyswitch PCB Mount Keycap 3.00u
+MX Keyboard Keyswitch Switch PCB Cutout Keycap 3.00u
+0
+2
+2
+ScottoKeebs_MX
+MX_PCB_3.00u_90deg
+MX keyswitch PCB Mount Keycap 3.00u 90deg
+MX Keyboard Keyswitch Switch PCB Cutout Keycap 3.00u 90deg
+0
+2
+2
+ScottoKeebs_MX
+MX_PCB_4.00u
+MX keyswitch PCB Mount Keycap 4.00u
+MX Keyboard Keyswitch Switch PCB Cutout Keycap 4.00u
+0
+2
+2
+ScottoKeebs_MX
+MX_PCB_4.50u
+MX keyswitch PCB Mount Keycap 4.50u
+MX Keyboard Keyswitch Switch PCB Cutout Keycap 4.50u
+0
+2
+2
+ScottoKeebs_MX
+MX_PCB_5.50u
+MX keyswitch PCB Mount Keycap 5.50u
+MX Keyboard Keyswitch Switch PCB Cutout Keycap 5.50u
+0
+2
+2
+ScottoKeebs_MX
+MX_PCB_6.00u
+MX keyswitch PCB Mount Keycap 6.00u
+MX Keyboard Keyswitch Switch PCB Cutout Keycap 6.00u
+0
+2
+2
+ScottoKeebs_MX
+MX_PCB_6.00u_Offset
+MX keyswitch PCB Mount Keycap 6.00u Offset
+MX Keyboard Keyswitch Switch PCB Cutout Keycap 6.00u Offset
+0
+2
+2
+ScottoKeebs_MX
+MX_PCB_6.25u
+MX keyswitch PCB Mount Keycap 6.25u
+MX Keyboard Keyswitch Switch PCB Cutout Keycap 6.25u
+0
+2
+2
+ScottoKeebs_MX
+MX_PCB_6.50u
+MX keyswitch PCB Mount Keycap 6.50u
+MX Keyboard Keyswitch Switch PCB Cutout Keycap 6.50u
+0
+2
+2
+ScottoKeebs_MX
+MX_PCB_7.00u
+MX keyswitch PCB Mount Keycap 7.00u
+MX Keyboard Keyswitch Switch PCB Cutout Keycap 7.00u
+0
+2
+2
+ScottoKeebs_MX
+MX_PCB_ISOEnter
+MX keyswitch PCB Mount Keycap ISOEnter
+MX Keyboard Keyswitch Switch PCB Cutout Keycap ISOEnter
+0
+2
+2
+ScottoKeebs_MX
+MX_PCB_ISOEnter_90deg
+MX keyswitch PCB Mount Keycap ISOEnter 90deg
+MX Keyboard Keyswitch Switch PCB Cutout Keycap ISOEnter 90deg
+0
+2
+2
+ScottoKeebs_MX
+MX_PCB_ISOEnter_180deg
+MX keyswitch PCB Mount Keycap ISOEnter 180deg
+MX Keyboard Keyswitch Switch PCB Cutout Keycap ISOEnter 180deg
+0
+2
+2
+ScottoKeebs_MX
+MX_PCB_ISOEnter_270deg
+MX keyswitch PCB Mount Keycap ISOEnter 270deg
+MX Keyboard Keyswitch Switch PCB Cutout Keycap ISOEnter 270deg
+0
+2
+2
+ScottoKeebs_MX
+MX_Plate
+MX keyswitch Plate Mount
+MX Keyboard Keyswitch Switch Plate Cutout
+0
+2
+2
+ScottoKeebs_MX
+MX_Plate_1.00u
+MX keyswitch Plate Mount Keycap 1.00u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 1.00u
+0
+2
+2
+ScottoKeebs_MX
+MX_Plate_1.25u
+MX keyswitch Plate Mount Keycap 1.25u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 1.25u
+0
+2
+2
+ScottoKeebs_MX
+MX_Plate_1.25u_90deg
+MX keyswitch Plate Mount Keycap 1.25u 90deg
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 1.25u 90deg
+0
+2
+2
+ScottoKeebs_MX
+MX_Plate_1.50u
+MX keyswitch Plate Mount Keycap 1.50u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 1.50u
+0
+2
+2
+ScottoKeebs_MX
+MX_Plate_1.50u_90deg
+MX keyswitch Plate Mount Keycap 1.50u 90deg
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 1.50u 90deg
+0
+2
+2
+ScottoKeebs_MX
+MX_Plate_1.75u
+MX keyswitch Plate Mount Keycap 1.75u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 1.75u
+0
+2
+2
+ScottoKeebs_MX
+MX_Plate_1.75u_90deg
+MX keyswitch Plate Mount Keycap 1.75u 90deg
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 1.75u 90deg
+0
+2
+2
+ScottoKeebs_MX
+MX_Plate_2.00u
+MX keyswitch Plate Mount Keycap 2.00u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 2.00u
+0
+2
+2
+ScottoKeebs_MX
+MX_Plate_2.00u_90deg
+MX keyswitch Plate Mount Keycap 2.00u 90deg
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 2.00u 90deg
+0
+2
+2
+ScottoKeebs_MX
+MX_Plate_2.25u
+MX keyswitch Plate Mount Keycap 2.25u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 2.25u
+0
+2
+2
+ScottoKeebs_MX
+MX_Plate_2.25u_90deg
+MX keyswitch Plate Mount Keycap 2.25u 90deg
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 2.25u 90deg
+0
+2
+2
+ScottoKeebs_MX
+MX_Plate_2.50u
+MX keyswitch Plate Mount Keycap 2.50u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 2.50u
+0
+2
+2
+ScottoKeebs_MX
+MX_Plate_2.50u_90deg
+MX keyswitch Plate Mount Keycap 2.50u 90deg
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 2.50u 90deg
+0
+2
+2
+ScottoKeebs_MX
+MX_Plate_2.75u
+MX keyswitch Plate Mount Keycap 2.75u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 2.75u
+0
+2
+2
+ScottoKeebs_MX
+MX_Plate_2.75u_90deg
+MX keyswitch Plate Mount Keycap 2.75u 90deg
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 2.75u 90deg
+0
+2
+2
+ScottoKeebs_MX
+MX_Plate_3.00u
+MX keyswitch Plate Mount Keycap 3.00u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 3.00u
+0
+2
+2
+ScottoKeebs_MX
+MX_Plate_3.00u_90deg
+MX keyswitch Plate Mount Keycap 3.00u 90deg
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 3.00u 90deg
+0
+2
+2
+ScottoKeebs_MX
+MX_Plate_4.00u
+MX keyswitch Plate Mount Keycap 4.00u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 4.00u
+0
+2
+2
+ScottoKeebs_MX
+MX_Plate_4.50u
+MX keyswitch Plate Mount Keycap 4.50u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 4.50u
+0
+2
+2
+ScottoKeebs_MX
+MX_Plate_5.50u
+MX keyswitch Plate Mount Keycap 5.50u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 5.50u
+0
+2
+2
+ScottoKeebs_MX
+MX_Plate_6.00u
+MX keyswitch Plate Mount Keycap 6.00u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 6.00u
+0
+2
+2
+ScottoKeebs_MX
+MX_Plate_6.00u_Offset
+MX keyswitch Plate Mount Keycap 6.00u Offset
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 6.00u Offset
+0
+2
+2
+ScottoKeebs_MX
+MX_Plate_6.25u
+MX keyswitch Plate Mount Keycap 6.25u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 6.25u
+0
+2
+2
+ScottoKeebs_MX
+MX_Plate_6.50u
+MX keyswitch Plate Mount Keycap 6.50u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 6.50u
+0
+2
+2
+ScottoKeebs_MX
+MX_Plate_7.00u
+MX keyswitch Plate Mount Keycap 7.00u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 7.00u
+0
+2
+2
+ScottoKeebs_MX
+MX_Plate_ISOEnter
+MX keyswitch Plate Mount Keycap ISOEnter
+MX Keyboard Keyswitch Switch Plate Cutout Keycap ISOEnter
+0
+2
+2
+ScottoKeebs_MX
+MX_Plate_ISOEnter_90deg
+MX keyswitch Plate Mount Keycap ISOEnter 90deg
+MX Keyboard Keyswitch Switch Plate Cutout Keycap ISOEnter 90deg
+0
+2
+2
+ScottoKeebs_MX
+MX_Plate_ISOEnter_180deg
+MX keyswitch Plate Mount Keycap ISOEnter 180deg
+MX Keyboard Keyswitch Switch Plate Cutout Keycap ISOEnter 180deg
+0
+2
+2
+ScottoKeebs_MX
+MX_Plate_ISOEnter_270deg
+MX keyswitch Plate Mount Keycap ISOEnter 270deg
+MX Keyboard Keyswitch Switch Plate Cutout Keycap ISOEnter 270deg
+0
+2
+2
+ScottoKeebs_Miscellaneous
+Mouse_Bites_5
+
+
+0
+0
+0
+ScottoKeebs_Miscellaneous
+Mouse_Bites_7
+
+
+0
+0
+0
+ScottoKeebs_Miscellaneous
+Mouse_Bites_9
+
+
+0
+0
+0
+ScottoKeebs_NB
+NB
+NB CPG1425 low profile notebook keyswitch
+NB CPG1425 Keyboard Low Profile Notebook Keyswitch Switch Cutout
+0
+2
+2
+ScottoKeebs_NB
+NB_1.00u
+NB CPG1425 low profile notebook keyswitch Keycap 1.00u
+NB CPG1425 Keyboard Low Profile Notebook Keyswitch Switch Cutout Keycap 1.00u
+0
+2
+2
+ScottoKeebs_NB
+NB_1.25u
+NB CPG1425 low profile notebook keyswitch Keycap 1.25u
+NB CPG1425 Keyboard Low Profile Notebook Keyswitch Switch Cutout Keycap 1.25u
+0
+2
+2
+ScottoKeebs_NB
+NB_1.50u
+NB CPG1425 low profile notebook keyswitch Keycap 1.50u
+NB CPG1425 Keyboard Low Profile Notebook Keyswitch Switch Cutout Keycap 1.50u
+0
+2
+2
+ScottoKeebs_NB
+NB_1.75u
+NB CPG1425 low profile notebook keyswitch Keycap 1.75u
+NB CPG1425 Keyboard Low Profile Notebook Keyswitch Switch Cutout Keycap 1.75u
+0
+2
+2
+ScottoKeebs_NB
+NB_2.00u
+NB CPG1425 low profile notebook keyswitch Keycap 2.00u
+NB CPG1425 Keyboard Low Profile Notebook Keyswitch Switch Cutout Keycap 2.00u
+0
+2
+2
+ScottoKeebs_NB
+NB_2.25u
+NB CPG1425 low profile notebook keyswitch Keycap 2.25u
+NB CPG1425 Keyboard Low Profile Notebook Keyswitch Switch Cutout Keycap 2.25u
+0
+2
+2
+ScottoKeebs_NB
+NB_2.50u
+NB CPG1425 low profile notebook keyswitch Keycap 2.50u
+NB CPG1425 Keyboard Low Profile Notebook Keyswitch Switch Cutout Keycap 2.50u
+0
+2
+2
+ScottoKeebs_NB
+NB_2.75u
+NB CPG1425 low profile notebook keyswitch Keycap 2.75u
+NB CPG1425 Keyboard Low Profile Notebook Keyswitch Switch Cutout Keycap 2.75u
+0
+2
+2
+ScottoKeebs_NB
+NB_3.00u
+NB CPG1425 low profile notebook keyswitch Keycap 3.00u
+NB CPG1425 Keyboard Low Profile Notebook Keyswitch Switch Cutout Keycap 3.00u
+0
+2
+2
+ScottoKeebs_NB
+NB_4.00u
+NB CPG1425 low profile notebook keyswitch Keycap 4.00u
+NB CPG1425 Keyboard Low Profile Notebook Keyswitch Switch Cutout Keycap 4.00u
+0
+2
+2
+ScottoKeebs_NB
+NB_4.50u
+NB CPG1425 low profile notebook keyswitch Keycap 4.50u
+NB CPG1425 Keyboard Low Profile Notebook Keyswitch Switch Cutout Keycap 4.50u
+0
+2
+2
+ScottoKeebs_NB
+NB_5.50u
+NB CPG1425 low profile notebook keyswitch Keycap 5.50u
+NB CPG1425 Keyboard Low Profile Notebook Keyswitch Switch Cutout Keycap 5.50u
+0
+2
+2
+ScottoKeebs_NB
+NB_6.00u
+NB CPG1425 low profile notebook keyswitch Keycap 6.00u
+NB CPG1425 Keyboard Low Profile Notebook Keyswitch Switch Cutout Keycap 6.00u
+0
+2
+2
+ScottoKeebs_NB
+NB_6.25u
+NB CPG1425 low profile notebook keyswitch Keycap 6.25u
+NB CPG1425 Keyboard Low Profile Notebook Keyswitch Switch Cutout Keycap 6.25u
+0
+2
+2
+ScottoKeebs_NB
+NB_6.50u
+NB CPG1425 low profile notebook keyswitch Keycap 6.50u
+NB CPG1425 Keyboard Low Profile Notebook Keyswitch Switch Cutout Keycap 6.50u
+0
+2
+2
+ScottoKeebs_NB
+NB_7.00u
+NB CPG1425 low profile notebook keyswitch Keycap 7.00u
+NB CPG1425 Keyboard Low Profile Notebook Keyswitch Switch Cutout Keycap 7.00u
+0
+2
+2
+ScottoKeebs_NB
+NB_ISOEnter
+NB CPG1425 low profile notebook keyswitch Keycap ISOEnter
+NB CPG1425 Keyboard Low Profile Notebook Keyswitch Switch Cutout Keycap ISOEnter
+0
+2
+2
+ScottoKeebs_Scotto
+Battery
+
+
+0
+2
+2
+ScottoKeebs_Scotto
+MX_Hotswap_1.00u
+
+
+0
+4
+2
+ScottoKeebs_Scotto
+MX_Hotswap_1.25u
+
+
+0
+4
+2
+ScottoKeebs_Scotto
+MX_Hotswap_1.50u
+
+
+0
+4
+2
+ScottoKeebs_Scotto
+MX_Hotswap_1.75u
+
+
+0
+4
+2
+ScottoKeebs_Scotto
+MX_Hotswap_2.00u
+
+
+0
+4
+2
+ScottoKeebs_Scotto
+MX_Hotswap_2.25u
+
+
+0
+4
+2
+ScottoKeebs_Scotto
+MX_Hotswap_2.50u
+
+
+0
+4
+2
+ScottoKeebs_Scotto
+MX_Hotswap_2.75u
+
+
+0
+4
+2
+ScottoKeebs_Scotto
+MX_Hotswap_3.00u
+
+
+0
+4
+2
+ScottoKeebs_Scotto
+MX_Hotswap_6.25u
+
+
+0
+4
+2
+ScottoKeebs_Scotto
+MX_Hotswap_7.00u
+
+
+0
+4
+2
+ScottoKeebs_Scotto
+MX_Solder_1.00u
+MX keyswitch PCB Mount Keycap 1.00u
+MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u
+0
+2
+2
+ScottoKeebs_Scotto
+MX_Solder_2.00u
+MX keyswitch PCB Mount Keycap 1.00u
+MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u
+0
+2
+2
+ScottoKeebs_Scotto
+RP2040_Pro_Micro_Flipped_Socketed
+
+
+0
+26
+26
+ScottoKeebs_Scotto
+RP2040_Zero_Flipped_Socketed
+
+
+0
+23
+23
+ScottoKeebs_Scotto
+Socket_Pins_2x12
+
+
+0
+24
+0
+ScottoKeebs_Scotto
+Standoff_M2x6mm
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+0
+0
+ScottoKeebs_Scotto
+Standoff_M2x8mm
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+0
+0
+ScottoKeebs_Stabilizer
+Stabilizer_MX_2.00u
+MX PCB Stabilizer 2.00u 2.25u 2.50u 2.75u
+MX Keyboard Stabilizer 2.00u 2.25u 2.50u 2.75u Cutout
+0
+0
+0
+ScottoKeebs_Stabilizer
+Stabilizer_MX_3.00u
+MX PCB Stabilizer 3.00u
+MX Keyboard Stabilizer 3.00u Cutout
+0
+0
+0
+ScottoKeebs_Stabilizer
+Stabilizer_MX_6.00u
+MX PCB Stabilizer 6.00u
+MX Keyboard Stabilizer 6.00u Cutout
+0
+0
+0
+ScottoKeebs_Stabilizer
+Stabilizer_MX_6.25u
+MX PCB Stabilizer 6.25u
+MX Keyboard Stabilizer 6.25u Cutout
+0
+0
+0
+ScottoKeebs_Stabilizer
+Stabilizer_MX_7.00u
+MX PCB Stabilizer 7.00u
+MX Keyboard Stabilizer 7.00u Cutout
+0
+0
+0
+ScottoKeebs_Stabilizer
+Stabilizer_MX_8.00u
+MX PCB Stabilizer 8.00u 9.00u 10.00u
+MX Keyboard Stabilizer 8.00u 9.00u 10.00u Cutout
+0
+0
+0
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf
