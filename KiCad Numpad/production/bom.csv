@@ -1,0 +1,6 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"D1, D10, D11, D12, D13, D14, D15, D16, D17, D2, D3, D4, D5, D6, D7, D8, D9",D_SOD-123,17,D_Small,
+"MX1, MX10, MX11, MX12, MX13, MX14, MX15, MX16, MX17, MX3, MX5, MX6, MX7, MX8, MX9",SW_MX_1u,15,MX_SW_solder,
+"MX2, MX4",SW_MX_1.5u,2,MX_SW_solder,
+"S2, S3",STAB_MX_2u,2,MX_stab,
+U1,Arduino_Pro_Micro,1,Arduino_Pro_Micro,

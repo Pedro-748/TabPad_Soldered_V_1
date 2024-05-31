@@ -2229,7 +2229,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 127 63.5 0)
 			(effects
 				(font
@@ -2297,7 +2297,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 152.4 101.6 0)
 			(effects
 				(font
@@ -2453,7 +2453,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 127 114.3 0)
 			(effects
 				(font
@@ -2585,7 +2585,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 139.7 101.6 0)
 			(effects
 				(font
@@ -2830,7 +2830,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 160.02 76.2 0)
 			(effects
 				(font
@@ -2986,7 +2986,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 127 101.6 0)
 			(effects
 				(font
@@ -3143,7 +3143,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 152.4 76.2 0)
 			(effects
 				(font
@@ -3299,7 +3299,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 139.7 88.9 0)
 			(effects
 				(font
@@ -3454,7 +3454,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 160.02 88.9 0)
 			(effects
 				(font
@@ -3522,7 +3522,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1.5u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1.5u"
 			(at 143.51 63.5 0)
 			(effects
 				(font
@@ -4139,7 +4139,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 152.4 114.3 0)
 			(effects
 				(font
@@ -4207,7 +4207,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 127 76.2 0)
 			(effects
 				(font
@@ -4275,7 +4275,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 160.02 109.22 0)
 			(effects
 				(font
@@ -4430,7 +4430,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1.5u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1.5u"
 			(at 160.02 63.5 0)
 			(effects
 				(font
@@ -4498,7 +4498,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 152.4 88.9 0)
 			(effects
 				(font
@@ -4654,7 +4654,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 127 88.9 0)
 			(effects
 				(font
@@ -4809,7 +4809,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 139.7 76.2 0)
 			(effects
 				(font
