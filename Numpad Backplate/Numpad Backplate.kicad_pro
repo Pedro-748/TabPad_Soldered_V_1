@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 2.2,
-          "height": 3.15,
-          "width": 3.15
+          "drill": 0.762,
+          "height": 1.524,
+          "width": 1.524
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -70,7 +70,7 @@
         "extra_footprint": "warning",
         "footprint": "error",
         "footprint_symbol_mismatch": "warning",
-        "footprint_type_mismatch": "warning",
+        "footprint_type_mismatch": "ignore",
         "hole_clearance": "error",
         "hole_near_hole": "error",
         "invalid_outline": "error",
@@ -430,7 +430,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "KiCad Numpad.kicad_pro",
+    "filename": "Numpad Backplate.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -462,10 +462,10 @@
   },
   "pcbnew": {
     "last_paths": {
-      "gencad": "",
+      "gencad": "Numpad Backplate.cad",
       "idf": "",
       "netlist": "",
-      "plot": "../Numpad Backplate/Gerber File/",
+      "plot": "Gerber File/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
@@ -525,35 +525,11 @@
           "label": "DNP",
           "name": "${DNP}",
           "show": true
-        },
-        {
-          "group_by": false,
-          "label": "#",
-          "name": "${ITEM_NUMBER}",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Sim.Device",
-          "name": "Sim.Device",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Sim.Pins",
-          "name": "Sim.Pins",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Description",
-          "name": "Description",
-          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
-      "name": "",
+      "name": "Grouped By Value",
       "sort_asc": true,
       "sort_field": "Reference"
     },
@@ -598,7 +574,7 @@
   },
   "sheets": [
     [
-      "399776d7-afe2-437e-8a47-9123c5af5dd7",
+      "9d1426cb-f06a-4e45-a9fb-060efdb28d9b",
       "Root"
     ]
   ],
