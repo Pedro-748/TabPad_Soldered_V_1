@@ -1,0 +1,6 @@
+if TabPad
+
+config ZMK_TabPad
+    bool "TabPad"
+    default y
+endif
